@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "services": "الخدمات",
+    "projects": "المشاريع",
+    "about": "من نحن",
+    "team": "فريق العمل",
+    "certificates": "الاعتمادات",
+    "news": "الأخبار",
+    "contact": "اتصل بنا"
+  },
+  "theme": {
+    "light": "الوضع المضيء",
+    "dark": "الوضع المظلم",
+    "toggle": "تبديل المظهر"
+  },
+  "lang": {
+    "label": "English",
+    "code": "en"
+  },
+  "footer": {
+    "allRightsReserved": "جميع الحقوق محفوظة.",
+    "designedBy": "تمت هندسته وتصميمه بواسطة شركة هضاب الخليج العربي للمقاولات.",
+    "contactTitle": "اتصل بنا"
+  }
+}

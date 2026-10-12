@@ -1,0 +1,25 @@
+# HEDABKH Backend Apache Rewrite Rules
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+<IfModule mod_dir.c>
+    DirectoryIndex index.php
+</IfModule>
+
+    # Pass Authorization Header to PHP
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Pass Content-Type Header
+    RewriteCond %{HTTP:Content-Type} .
+    RewriteRule .* - [E=CONTENT_TYPE:%{HTTP:Content-Type}]
+
+    # Handle Front Controller
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [QSA,L]
+</IfModule>
+
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "SAMEORIGIN"
+</IfModule>

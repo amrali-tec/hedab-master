@@ -1,0 +1,22 @@
+# Backend Local Environment & Storage Ignores
+.env
+.env.local
+.env.*.local
+
+# Storage & Logs
+storage/logs/*.log
+storage/cache/*
+storage/backups/*.sql
+!storage/logs/.gitkeep
+!storage/cache/.gitkeep
+!storage/backups/.gitkeep
+
+# Uploads in development
+uploads/images/*
+uploads/documents/*
+!uploads/images/.gitkeep
+!uploads/documents/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db

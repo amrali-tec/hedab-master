@@ -1,0 +1,125 @@
+# ==============================================================================
+# GULF HILLS CONTRACTING — REST API ENDPOINTS TEST COLLECTION (.http)
+# Canonical Base URL: https://hedabkh.com.sa (or http://localhost:3000 for local dev)
+# ==============================================================================
+
+@baseUrl = http://localhost:3000
+@contentType = application/json
+
+### 1. System Health Check
+# @name getHealth
+GET {{baseUrl}}/api/health
+Accept: application/json
+
+###
+
+### 2. Deployment Readiness Probe
+# @name getReadiness
+GET {{baseUrl}}/api/ready
+Accept: application/json
+
+###
+
+### 3. Admin Authentication Login
+# @name adminLogin
+POST {{baseUrl}}/api/auth/login
+Content-Type: {{contentType}}
+
+{
+  "username": "admin",
+  "password": "Password123!"
+}
+
+###
+
+### 4. Check Current Session Status
+# @name checkSession
+GET {{baseUrl}}/api/auth/session
+Accept: application/json
+
+###
+
+### 5. Query Master CMS Data
+# @name getCmsData
+GET {{baseUrl}}/api/admin/cms
+Accept: application/json
+
+###
+
+### 6. Mutate CMS Data Payload
+# @name updateCmsData
+POST {{baseUrl}}/api/admin/cms
+Content-Type: {{contentType}}
+
+{
+  "version": "1.0",
+  "data": {
+    "companyNameAr": "شركة هضاب الخليج للمقاولات العامة",
+    "companyNameEn": "Gulf Hills Contracting Co."
+  }
+}
+
+###
+
+### 7. Query Visual CMS Page & Block Tree Hierarchy
+# @name getVisualCmsPage
+GET {{baseUrl}}/api/admin/visual-cms?pageId=page-home
+Accept: application/json
+
+###
+
+### 8. Save Visual CMS Page Composition
+# @name saveVisualCmsPage
+POST {{baseUrl}}/api/admin/visual-cms
+Content-Type: {{contentType}}
+
+{
+  "pageId": "page-home",
+  "blocks": [
+    {
+      "id": "block-hero-1",
+      "type": "heroBanner",
+      "isVisible": true,
+      "config": {
+        "titleAr": "شركة هضاب الخليج للمقاولات",
+        "titleEn": "Gulf Hills Contracting Company",
+        "subtitleAr": "الريادة والتميز في مشاريع البنية التحتية والإنشاءات الهندسية",
+        "subtitleEn": "Excellence in Saudi Infrastructure & Engineering Projects"
+      }
+    }
+  ]
+}
+
+###
+
+### 9. Query Central Media Library
+# @name getMediaLibrary
+GET {{baseUrl}}/api/admin/media
+Accept: application/json
+
+###
+
+### 10. List Automated Backups
+# @name getBackups
+GET {{baseUrl}}/api/admin/backup
+Accept: application/json
+
+###
+
+### 11. Trigger New Automated Cryptographic Backup
+# @name createBackup
+POST {{baseUrl}}/api/admin/backup
+Content-Type: {{contentType}}
+
+{
+  "reason": "Pre-deployment automated snapshot"
+}
+
+###
+
+### 12. Logout Admin Session
+# @name adminLogout
+POST {{baseUrl}}/api/auth/logout
+Content-Type: {{contentType}}
+
+{}

@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[33447,["/_next/static/chunks/1zxeu6ulrk6xj.js","/_next/static/chunks/2tex5bj15gsat.js","/_next/static/chunks/082fxp-i4incj.js"],"default"]
+3:I[63870,["/_next/static/chunks/1zxeu6ulrk6xj.js","/_next/static/chunks/2tex5bj15gsat.js","/_next/static/chunks/082fxp-i4incj.js"],"default"]
+4:I[63975,["/_next/static/chunks/1zxeu6ulrk6xj.js","/_next/static/chunks/2tex5bj15gsat.js","/_next/static/chunks/082fxp-i4incj.js"],"default"]
+5:I[90561,["/_next/static/chunks/1zxeu6ulrk6xj.js","/_next/static/chunks/2tex5bj15gsat.js","/_next/static/chunks/082fxp-i4incj.js"],"default"]
+6:I[39756,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+7:I[37457,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+8:I[50166,["/_next/static/chunks/1zxeu6ulrk6xj.js","/_next/static/chunks/2tex5bj15gsat.js","/_next/static/chunks/082fxp-i4incj.js"],"default"]
+:HL["/_next/static/chunks/3kf0dx-bfme7g.css","style"]
+:HL["/_next/static/chunks/0hmhfnt70jkvy.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3kf0dx-bfme7g.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0hmhfnt70jkvy.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1zxeu6ulrk6xj.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/2tex5bj15gsat.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/082fxp-i4incj.js","async":true}]],["$","html",null,{"lang":"ar","dir":"rtl","className":"cairo_be79a8e-module__hfBY0a__variable","suppressHydrationWarning":true,"children":["$","body",null,{"className":"relative min-h-screen w-full flex flex-col bg-bg-main text-text-main font-sans transition-colors duration-300 overflow-x-hidden","suppressHydrationWarning":true,"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"children":[["$","$L5",null,{"locale":"ar"}],["$","main",null,{"className":"flex-grow relative z-10 bg-transparent","children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]}],["$","$L8",null,{"locale":"ar"}]]}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gb9KmYmhisFlrZsnAGvvL"}

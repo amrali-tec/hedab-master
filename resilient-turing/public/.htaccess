@@ -1,0 +1,17 @@
+# ==============================================================================
+# GULF HILLS CONTRACTING — PUBLIC ASSETS APACHE / HOSTINGER CONFIGURATION
+# ==============================================================================
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Force HTTPS Redirect
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+<IfModule mod_headers.c>
+    Header set Cache-Control "public, max-age=31536000, immutable"
+    Header always set X-Content-Type-Options "nosniff"
+</IfModule>

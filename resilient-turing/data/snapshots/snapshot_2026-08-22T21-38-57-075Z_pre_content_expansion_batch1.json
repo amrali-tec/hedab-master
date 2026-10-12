@@ -1,0 +1,1364 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-08-22T21:35:12.281Z",
+  "lastUpdatedBy": "Senior Corporate Content Strategist",
+  "data": {
+    "system_status": "ready",
+    "test_sync_milestone": {
+      "titleAr": "مشروع الجسور المعلقة والتوسعات الاستراتيجية 2030",
+      "titleEn": "Suspended Viaducts & Strategic 2030 Infrastructure",
+      "updatedAt": "2026-08-21T16:52:10.553Z",
+      "status": "published"
+    },
+    "live_test_milestone": {
+      "titleAr": "اختبار الحفظ المباشر",
+      "status": "verified"
+    },
+    "concurrent_stress_0": {
+      "workerId": 0,
+      "timestamp": 1787348530235
+    },
+    "concurrent_stress_1": {
+      "workerId": 1,
+      "timestamp": 1787348530236
+    },
+    "concurrent_stress_2": {
+      "workerId": 2,
+      "timestamp": 1787348530238
+    },
+    "concurrent_stress_4": {
+      "workerId": 4,
+      "timestamp": 1787348530240
+    },
+    "concurrent_stress_3": {
+      "workerId": 3,
+      "timestamp": 1787348530239
+    },
+    "gulf_hills_timeline_items": [
+      {
+        "id": "milestone-1",
+        "year": "التأسيس",
+        "titleAr": "تأسيس شركة هضاب الخليج للمقاولات",
+        "titleEn": "Foundation of Gulf Hills Contracting Co.",
+        "descriptionAr": "انطلاق الأعمال التشغيلية والإنشائية في قطاع المقاولات العامة والبنية التحتية بمدينة الرياض.",
+        "descriptionEn": "Commenced operational and civil engineering contracting focusing on general infrastructure in Riyadh.",
+        "colorCard": "14, 165, 233",
+        "colorRing": "#0284c7"
+      },
+      {
+        "id": "milestone-2",
+        "year": "التوسع",
+        "titleAr": "توسيع نطاق مقاولات الطرق وشبكات تصريف السيول",
+        "titleEn": "Expansion into Road Works & Stormwater Networks",
+        "descriptionAr": "اعتماد الشركة في تنفيذ عقود كشط وسفلتة الطرق الحضرية وتمديد خطوط الأنابيب الخرسانية لشبكات تصريف مياه الأمطار.",
+        "descriptionEn": "Approved for urban road milling, asphalt paving, and reinforced concrete stormwater pipeline installation.",
+        "colorCard": "34, 197, 94",
+        "colorRing": "#16a34a"
+      },
+      {
+        "id": "milestone-3",
+        "year": "الشراكات",
+        "titleAr": "التعاقد مع الوزارات والأمانات والجهات الحكومية",
+        "titleEn": "Strategic Municipal & Ministry Contracts",
+        "descriptionAr": "إبرام عقود تشغيل وصيانة وتأهيل المرافق والمقابر مع وزارة البلديات والإسكان، أمانة منطقة الرياض، وأمانة منطقة القصيم.",
+        "descriptionEn": "Secured long-term facility O&M, cemetery management, and municipal maintenance contracts with MoMRAH, Riyadh Municipality, and Qassim Municipality.",
+        "colorCard": "249, 115, 22",
+        "colorRing": "#ea580c"
+      },
+      {
+        "id": "milestone-4",
+        "year": "الأسطول",
+        "titleAr": "تحديث أسطول الآليات والمعدات الثقيلة المتخصصة",
+        "titleEn": "Fleet Modernization & Specialized Heavy Equipment",
+        "descriptionAr": "استثمار استراتيجي في معدات الكشط الذاتي (Wirtgen)، فرادات الأسفلت (Vögele)، الحفارات المجنزرة (CAT)، وناقلات المخلفات الإنشائية.",
+        "descriptionEn": "Invested heavily in modern cold milling machines, asphalt pavers, tracked excavators, and commercial tipper transport fleets.",
+        "colorCard": "168, 85, 247",
+        "colorRing": "#9333ea"
+      },
+      {
+        "id": "milestone-5",
+        "year": "التصنيع",
+        "titleAr": "إنتاج وتوريد الحواجز الخرسانية مسبقة الصب (نيوجيرسي)",
+        "titleEn": "Precast Concrete Barrier Production & Supply",
+        "descriptionAr": "تأمين وتوريد وتركيب حواجز نيوجيرسي الخرسانية بأطوال ومواصفات معتمدة لتعزيز السلامة المرورية على المحاور الحيوية.",
+        "descriptionEn": "Supplied and installed certified precast New Jersey concrete safety barriers along major urban highways and critical intersections.",
+        "colorCard": "236, 72, 153",
+        "colorRing": "#db2777"
+      },
+      {
+        "id": "milestone-6",
+        "year": "2030",
+        "titleAr": "المساهمة في تحقيق مستهدفات رؤية المملكة 2030",
+        "titleEn": "Active Contribution to Saudi Vision 2030 Infrastructure",
+        "descriptionAr": "الريادة الميدانية في برامج معالجة التشوه البصري، تحسين المشهد الحضري، واستدامة شبكات البنية التحتية في المدن والمحافظات.",
+        "descriptionEn": "Leading field operations for urban visual pollution removal, city landscape enhancement, and long-term infrastructure sustainability.",
+        "colorCard": "0, 112, 186",
+        "colorRing": "#002060"
+      }
+    ],
+    "cms_draft_page-home": {
+      "id": "ver-home-draft-v3-corporate",
+      "pageId": "page-home",
+      "versionNumber": 4,
+      "state": "draft",
+      "titleAr": "مسودة العمل للرئيسية",
+      "titleEn": "Home Working Draft",
+      "blocks": [
+        {
+          "id": "block-home-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "المقاول الإنشائي والتشغيلي المعتمد بالمملكة العربية السعودية",
+            "tagEn": "CERTIFIED SAUDI CIVIL & INFRASTRUCTURE CONTRACTOR",
+            "titleAr": "نبني البنية التحتية... لنرتقي بجودة الحياة الحضرية",
+            "titleEn": "Engineering Resilient Infrastructure, Enhancing Urban Living",
+            "subtitleAr": "شريك استراتيجي وطني معتمد لدى كبرى الوزارات والأمانات في مقاولات الطرق، شبكات تصريف السيول، الحواجز الخرسانية مسبقة الصب، والتشغيل والصيانة البلدية وفق رؤية المملكة 2030.",
+            "subtitleEn": "A certified national partner for sovereign ministries and municipalities across road paving, stormwater networks, precast concrete barriers, and municipal facility O&M under Saudi Vision 2030.",
+            "primaryCtaTextAr": "استعراض المشاريع الميدانية",
+            "primaryCtaTextEn": "Explore Field Projects",
+            "primaryCtaLink": "/projects",
+            "secondaryCtaTextAr": "طلب استشارة وعرض سعر",
+            "secondaryCtaTextEn": "Request Consultation & RFQ",
+            "secondaryCtaLink": "/contact",
+            "bgImageUrl": "/images/hero-bg.webp",
+            "badgeNumber": "25+",
+            "badgeTextAr": "مشروعاً حكومياً وبلدياً معتمداً",
+            "badgeTextEn": "Certified Municipal & Sovereign Contracts"
+          },
+          "createdAt": "2026-08-22T21:35:12.280Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-services-1",
+          "type": "serviceCollection",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "tagAr": "مجالات الاختصاص والقدرات الهندسية",
+            "tagEn": "CORE ENGINEERING DISCIPLINES",
+            "titleAr": "حلول متكاملة في مقاولات البنية التحتية والتشغيل البلدي",
+            "titleEn": "Comprehensive Infrastructure & Municipal Operation Solutions",
+            "subtitleAr": "نمتلك الكوادر الهندسية والأسطول الآلي المتطور لتنفيذ أصعب المشاريع بدقة متناهية والتزام صارم بالمواصفات القياسية.",
+            "subtitleEn": "Equipped with multidisciplinary engineering teams and heavy specialized fleets to execute complex public contracts with precision.",
+            "selectedServiceIds": [
+              "srv-3",
+              "srv-4",
+              "srv-1",
+              "srv-2",
+              "srv-5",
+              "srv-6"
+            ],
+            "maxItems": 6,
+            "layout": "cards"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-about-highlight",
+          "type": "richText",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "الريادة الميدانية والالتزام الهندسي",
+            "badgeEn": "Engineering Excellence & Public Value",
+            "titleAr": "ركائز العمل في شركة هضاب الخليج العربي للمقاولات",
+            "titleEn": "Core Operational Pillars of Arabian Gulf Hills Contracting",
+            "contentAr": "تعتمد شركة هضاب الخليج في كافة عملياتها على منهجية هندسية صارمة تدمج بين التخطيط الدقيق، إدارة الموارد بكفاءة، وتطبيق أعلى اشتراطات السلامة والجودة المعتمدة في الكود السعودي للبناء.\n\n- **الالتزام بالمواصفات الفنية:** تطبيق متطلبات وزارة النقل والشؤون البلدية في كافة أعمال الخرسانة والأسفلت والتمديدات الهيدروليكية.\n- **الأسطول المتخصص والجاهزية:** امتلاك أسطول متكامل من معدات الكشط، الرصف، الحفر، وآليات الشفط والضغط العالي.\n- **التغطية الجغرافية الواسعة:** تواجد تشغيلي نشط في منطقة الرياض، القصيم، ومحافظات الخرج والغاط والزلفي والمزاحمية.\n- **السلامة والاستدامة البيئية:** الالتزام الصارم بضوابط السلامة المهنية لحماية فرق العمل والمشاة وسلامة الحركة المرورية.",
+            "contentEn": "Arabian Gulf Hills operates under a rigorous engineering framework combining methodical planning, efficient asset management, and strict compliance with the Saudi Building Code.\n\n- **Technical Standard Compliance:** Full adherence to MoMRAH and Transport Ministry guidelines across concrete, asphalt, and hydraulic installations.\n- **Modern Heavy Fleet:** Fully owned fleet of automated cold milling machines, asphalt pavers, excavators, and high-pressure jetting units.\n- **Broad Geographical Coverage:** Active field presence across Riyadh Province, Al-Qassim, Al-Kharj, Al-Ghat, Al-Zulfi, and Al-Muzahmiyah.\n- **Safety & Environmental Sustainability:** Rigorous workplace and public safety protocols safeguarding field crews, pedestrians, and traffic flow.",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-timeline-1",
+          "type": "timeline",
+          "sortOrder": 3,
+          "isVisible": true,
+          "config": {
+            "tagAr": "محطات النمو والإنجاز المؤسسي",
+            "tagEn": "TRACK RECORD & GROWTH MILESTONES",
+            "titleAr": "مسيرة من الريادة وبناء القدرات الإنشائية الوطنية",
+            "titleEn": "A Proven Trajectory of National Infrastructure Capabilities",
+            "subtitleAr": "تطور مستمر منذ التأسيس وحتى تصدر المشاريع السيادية وعقود التشغيل والصيانة لشبكات البلديات الكبرى.",
+            "subtitleEn": "Continuous institutional evolution from initial establishment to executing flagship municipal and ministerial contracts.",
+            "cylinderRadius": 600,
+            "autoRotate": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-projects-1",
+          "type": "projectCollection",
+          "sortOrder": 4,
+          "isVisible": true,
+          "config": {
+            "tagAr": "سجل المشاريع الحيوية المنفذة",
+            "tagEn": "VERIFIED FLAGSHIP CONTRACTS",
+            "titleAr": "مشاريع حيوية تعزز البنية التحتية وجودة الحياة",
+            "titleEn": "Vital Infrastructure Projects Supporting Quality of Life",
+            "subtitleAr": "نماذج واقعية وموثقة لمشاريعنا في شبكات تصريف الأمطار، كشط وسفلتة الشوارع، وتشغيل المرافق الحكومية.",
+            "subtitleEn": "Documented public projects spanning stormwater drainage pipelines, road milling & paving, and municipal facility operations.",
+            "selectedProjectIds": [
+              "proj-1",
+              "proj-2",
+              "proj-4",
+              "proj-7",
+              "proj-8",
+              "proj-9"
+            ],
+            "featuredOnly": true,
+            "maxItems": 6,
+            "layout": "grid"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-map-1",
+          "type": "saudiMap",
+          "sortOrder": 5,
+          "isVisible": true,
+          "config": {
+            "tagAr": "الانتشار الميداني بالمملكة",
+            "tagEn": "GEOGRAPHICAL OPERATIONAL FOOTPRINT",
+            "titleAr": "تواجدنا الميداني في المحافظات والمناطق الحيوية",
+            "titleEn": "Active Field Operations Across Central Saudi Regions",
+            "subtitleAr": "تنتشر فرق عملنا الهندسية وأسطول الآليات في مدينة الرياض، منطقة القصيم، ومحافظات الخرج، الغاط، الزلفي، والمزاحمية.",
+            "subtitleEn": "Multidisciplinary engineering teams and heavy machinery deployed across Riyadh, Al-Qassim, Al-Kharj, Al-Ghat, Al-Zulfi, and Al-Muzahmiyah.",
+            "selectedRegionId": "riyadh"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-partners-1",
+          "type": "partners",
+          "sortOrder": 6,
+          "isVisible": true,
+          "config": {
+            "tagAr": "شركاء النجاح والجهات المستفيدة",
+            "tagEn": "SOVEREIGN & MUNICIPAL PARTNERS",
+            "titleAr": "نعتز بثقة كبرى الوزارات والأمانات والبلديات بالمملكة",
+            "titleEn": "Trusted Partner to Saudi Ministries, Regional Municipalities & Public Bodies",
+            "subtitleAr": "سجل حافل من الشراكات المثمرة مع وزارة الشؤون البلدية والقروية والإسكان، أمانة منطقة الرياض، أمانة القصيم، ووزارة الحرس الوطني.",
+            "subtitleEn": "A proven track record with MoMRAH, Riyadh Municipality, Al-Qassim Municipality, and Ministry of National Guard Health Affairs.",
+            "speedSec": 35,
+            "showProjectsCount": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-stats-1",
+          "type": "statistics",
+          "sortOrder": 7,
+          "isVisible": true,
+          "config": {
+            "tagAr": "مؤشرات الأداء الميداني",
+            "tagEn": "VERIFIED OPERATIONAL METRICS",
+            "titleAr": "أرقام حقيقية تعكس حجم الإنجاز والكفاءة التشغيلية",
+            "titleEn": "Documented Metrics Reflecting Execution Capability",
+            "subtitleAr": "إحصائيات موثقة لعقود الصيانة المنفذة، أطوال شبكات السيول، أسطول الآليات الثقيلة، ومساحات الطرق المنجزة.",
+            "subtitleEn": "Documented figures covering active contracts, stormwater networks, heavy machinery fleet, and urban road square meters.",
+            "selectedStatIds": [],
+            "showIcons": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-cta-1",
+          "type": "cta",
+          "sortOrder": 8,
+          "isVisible": true,
+          "config": {
+            "titleAr": "هل لديك مشروع بنية تحتية أو طلب توريد حواجز خرسانية؟",
+            "titleEn": "Planning an Infrastructure Project or Require Precast Concrete Barriers?",
+            "descriptionAr": "فريقنا الهندسي في إدارة المشاريع على أتم الاستعداد لتقديم الدراسات الفنية، المخططات التنفيذية، وعروض الأسعار التنافسية.",
+            "descriptionEn": "Our engineering project estimation team is ready to provide technical consultations, execution plans, and competitive RFQs.",
+            "buttonTextAr": "طلب استشارة وعرض سعر فوري",
+            "buttonTextEn": "Request Consultation & RFQ",
+            "buttonLink": "/contact",
+            "bgColor": "from-blue-600 to-[#002060]"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-whatsapp-1",
+          "type": "whatsapp",
+          "sortOrder": 9,
+          "isVisible": true,
+          "config": {
+            "phoneNumber": "966115126774",
+            "defaultMessageAr": "مرحباً، أود التواصل مع الإدارة الهندسية لشركة هضاب الخليج بخصوص طلب عرض سعر أو استفسار عن الخدمات.",
+            "defaultMessageEn": "Hello, I would like to inquire with Gulf Hills engineering team regarding an RFQ or project consultation.",
+            "tooltipAr": "تحدث مباشرة مع الإدارة الهندسية",
+            "tooltipEn": "Chat Directly with Engineering Dept",
+            "pulseGlow": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        }
+      ],
+      "createdBy": "Senior Corporate Content Strategist",
+      "createdAt": "2026-08-22T21:35:12.281Z",
+      "publishedAt": null,
+      "changeNote": "مسودة العمل المؤسسية"
+    },
+    "cms_published_page-home": {
+      "id": "ver-home-published-v3-corporate",
+      "pageId": "page-home",
+      "versionNumber": 3,
+      "state": "published",
+      "titleAr": "الصفحة الرئيسية المعتمدة (الإصدار المؤسسي الشامل)",
+      "titleEn": "Corporate Home Page (Comprehensive Production Release)",
+      "blocks": [
+        {
+          "id": "block-home-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "المقاول الإنشائي والتشغيلي المعتمد بالمملكة العربية السعودية",
+            "tagEn": "CERTIFIED SAUDI CIVIL & INFRASTRUCTURE CONTRACTOR",
+            "titleAr": "نبني البنية التحتية... لنرتقي بجودة الحياة الحضرية",
+            "titleEn": "Engineering Resilient Infrastructure, Enhancing Urban Living",
+            "subtitleAr": "شريك استراتيجي وطني معتمد لدى كبرى الوزارات والأمانات في مقاولات الطرق، شبكات تصريف السيول، الحواجز الخرسانية مسبقة الصب، والتشغيل والصيانة البلدية وفق رؤية المملكة 2030.",
+            "subtitleEn": "A certified national partner for sovereign ministries and municipalities across road paving, stormwater networks, precast concrete barriers, and municipal facility O&M under Saudi Vision 2030.",
+            "primaryCtaTextAr": "استعراض المشاريع الميدانية",
+            "primaryCtaTextEn": "Explore Field Projects",
+            "primaryCtaLink": "/projects",
+            "secondaryCtaTextAr": "طلب استشارة وعرض سعر",
+            "secondaryCtaTextEn": "Request Consultation & RFQ",
+            "secondaryCtaLink": "/contact",
+            "bgImageUrl": "/images/hero-bg.webp",
+            "badgeNumber": "25+",
+            "badgeTextAr": "مشروعاً حكومياً وبلدياً معتمداً",
+            "badgeTextEn": "Certified Municipal & Sovereign Contracts"
+          },
+          "createdAt": "2026-08-22T21:35:12.280Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-services-1",
+          "type": "serviceCollection",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "tagAr": "مجالات الاختصاص والقدرات الهندسية",
+            "tagEn": "CORE ENGINEERING DISCIPLINES",
+            "titleAr": "حلول متكاملة في مقاولات البنية التحتية والتشغيل البلدي",
+            "titleEn": "Comprehensive Infrastructure & Municipal Operation Solutions",
+            "subtitleAr": "نمتلك الكوادر الهندسية والأسطول الآلي المتطور لتنفيذ أصعب المشاريع بدقة متناهية والتزام صارم بالمواصفات القياسية.",
+            "subtitleEn": "Equipped with multidisciplinary engineering teams and heavy specialized fleets to execute complex public contracts with precision.",
+            "selectedServiceIds": [
+              "srv-3",
+              "srv-4",
+              "srv-1",
+              "srv-2",
+              "srv-5",
+              "srv-6"
+            ],
+            "maxItems": 6,
+            "layout": "cards"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-about-highlight",
+          "type": "richText",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "الريادة الميدانية والالتزام الهندسي",
+            "badgeEn": "Engineering Excellence & Public Value",
+            "titleAr": "ركائز العمل في شركة هضاب الخليج العربي للمقاولات",
+            "titleEn": "Core Operational Pillars of Arabian Gulf Hills Contracting",
+            "contentAr": "تعتمد شركة هضاب الخليج في كافة عملياتها على منهجية هندسية صارمة تدمج بين التخطيط الدقيق، إدارة الموارد بكفاءة، وتطبيق أعلى اشتراطات السلامة والجودة المعتمدة في الكود السعودي للبناء.\n\n- **الالتزام بالمواصفات الفنية:** تطبيق متطلبات وزارة النقل والشؤون البلدية في كافة أعمال الخرسانة والأسفلت والتمديدات الهيدروليكية.\n- **الأسطول المتخصص والجاهزية:** امتلاك أسطول متكامل من معدات الكشط، الرصف، الحفر، وآليات الشفط والضغط العالي.\n- **التغطية الجغرافية الواسعة:** تواجد تشغيلي نشط في منطقة الرياض، القصيم، ومحافظات الخرج والغاط والزلفي والمزاحمية.\n- **السلامة والاستدامة البيئية:** الالتزام الصارم بضوابط السلامة المهنية لحماية فرق العمل والمشاة وسلامة الحركة المرورية.",
+            "contentEn": "Arabian Gulf Hills operates under a rigorous engineering framework combining methodical planning, efficient asset management, and strict compliance with the Saudi Building Code.\n\n- **Technical Standard Compliance:** Full adherence to MoMRAH and Transport Ministry guidelines across concrete, asphalt, and hydraulic installations.\n- **Modern Heavy Fleet:** Fully owned fleet of automated cold milling machines, asphalt pavers, excavators, and high-pressure jetting units.\n- **Broad Geographical Coverage:** Active field presence across Riyadh Province, Al-Qassim, Al-Kharj, Al-Ghat, Al-Zulfi, and Al-Muzahmiyah.\n- **Safety & Environmental Sustainability:** Rigorous workplace and public safety protocols safeguarding field crews, pedestrians, and traffic flow.",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-timeline-1",
+          "type": "timeline",
+          "sortOrder": 3,
+          "isVisible": true,
+          "config": {
+            "tagAr": "محطات النمو والإنجاز المؤسسي",
+            "tagEn": "TRACK RECORD & GROWTH MILESTONES",
+            "titleAr": "مسيرة من الريادة وبناء القدرات الإنشائية الوطنية",
+            "titleEn": "A Proven Trajectory of National Infrastructure Capabilities",
+            "subtitleAr": "تطور مستمر منذ التأسيس وحتى تصدر المشاريع السيادية وعقود التشغيل والصيانة لشبكات البلديات الكبرى.",
+            "subtitleEn": "Continuous institutional evolution from initial establishment to executing flagship municipal and ministerial contracts.",
+            "cylinderRadius": 600,
+            "autoRotate": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-projects-1",
+          "type": "projectCollection",
+          "sortOrder": 4,
+          "isVisible": true,
+          "config": {
+            "tagAr": "سجل المشاريع الحيوية المنفذة",
+            "tagEn": "VERIFIED FLAGSHIP CONTRACTS",
+            "titleAr": "مشاريع حيوية تعزز البنية التحتية وجودة الحياة",
+            "titleEn": "Vital Infrastructure Projects Supporting Quality of Life",
+            "subtitleAr": "نماذج واقعية وموثقة لمشاريعنا في شبكات تصريف الأمطار، كشط وسفلتة الشوارع، وتشغيل المرافق الحكومية.",
+            "subtitleEn": "Documented public projects spanning stormwater drainage pipelines, road milling & paving, and municipal facility operations.",
+            "selectedProjectIds": [
+              "proj-1",
+              "proj-2",
+              "proj-4",
+              "proj-7",
+              "proj-8",
+              "proj-9"
+            ],
+            "featuredOnly": true,
+            "maxItems": 6,
+            "layout": "grid"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-map-1",
+          "type": "saudiMap",
+          "sortOrder": 5,
+          "isVisible": true,
+          "config": {
+            "tagAr": "الانتشار الميداني بالمملكة",
+            "tagEn": "GEOGRAPHICAL OPERATIONAL FOOTPRINT",
+            "titleAr": "تواجدنا الميداني في المحافظات والمناطق الحيوية",
+            "titleEn": "Active Field Operations Across Central Saudi Regions",
+            "subtitleAr": "تنتشر فرق عملنا الهندسية وأسطول الآليات في مدينة الرياض، منطقة القصيم، ومحافظات الخرج، الغاط، الزلفي، والمزاحمية.",
+            "subtitleEn": "Multidisciplinary engineering teams and heavy machinery deployed across Riyadh, Al-Qassim, Al-Kharj, Al-Ghat, Al-Zulfi, and Al-Muzahmiyah.",
+            "selectedRegionId": "riyadh"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-partners-1",
+          "type": "partners",
+          "sortOrder": 6,
+          "isVisible": true,
+          "config": {
+            "tagAr": "شركاء النجاح والجهات المستفيدة",
+            "tagEn": "SOVEREIGN & MUNICIPAL PARTNERS",
+            "titleAr": "نعتز بثقة كبرى الوزارات والأمانات والبلديات بالمملكة",
+            "titleEn": "Trusted Partner to Saudi Ministries, Regional Municipalities & Public Bodies",
+            "subtitleAr": "سجل حافل من الشراكات المثمرة مع وزارة الشؤون البلدية والقروية والإسكان، أمانة منطقة الرياض، أمانة القصيم، ووزارة الحرس الوطني.",
+            "subtitleEn": "A proven track record with MoMRAH, Riyadh Municipality, Al-Qassim Municipality, and Ministry of National Guard Health Affairs.",
+            "speedSec": 35,
+            "showProjectsCount": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-stats-1",
+          "type": "statistics",
+          "sortOrder": 7,
+          "isVisible": true,
+          "config": {
+            "tagAr": "مؤشرات الأداء الميداني",
+            "tagEn": "VERIFIED OPERATIONAL METRICS",
+            "titleAr": "أرقام حقيقية تعكس حجم الإنجاز والكفاءة التشغيلية",
+            "titleEn": "Documented Metrics Reflecting Execution Capability",
+            "subtitleAr": "إحصائيات موثقة لعقود الصيانة المنفذة، أطوال شبكات السيول، أسطول الآليات الثقيلة، ومساحات الطرق المنجزة.",
+            "subtitleEn": "Documented figures covering active contracts, stormwater networks, heavy machinery fleet, and urban road square meters.",
+            "selectedStatIds": [],
+            "showIcons": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-cta-1",
+          "type": "cta",
+          "sortOrder": 8,
+          "isVisible": true,
+          "config": {
+            "titleAr": "هل لديك مشروع بنية تحتية أو طلب توريد حواجز خرسانية؟",
+            "titleEn": "Planning an Infrastructure Project or Require Precast Concrete Barriers?",
+            "descriptionAr": "فريقنا الهندسي في إدارة المشاريع على أتم الاستعداد لتقديم الدراسات الفنية، المخططات التنفيذية، وعروض الأسعار التنافسية.",
+            "descriptionEn": "Our engineering project estimation team is ready to provide technical consultations, execution plans, and competitive RFQs.",
+            "buttonTextAr": "طلب استشارة وعرض سعر فوري",
+            "buttonTextEn": "Request Consultation & RFQ",
+            "buttonLink": "/contact",
+            "bgColor": "from-blue-600 to-[#002060]"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-home-whatsapp-1",
+          "type": "whatsapp",
+          "sortOrder": 9,
+          "isVisible": true,
+          "config": {
+            "phoneNumber": "966115126774",
+            "defaultMessageAr": "مرحباً، أود التواصل مع الإدارة الهندسية لشركة هضاب الخليج بخصوص طلب عرض سعر أو استفسار عن الخدمات.",
+            "defaultMessageEn": "Hello, I would like to inquire with Gulf Hills engineering team regarding an RFQ or project consultation.",
+            "tooltipAr": "تحدث مباشرة مع الإدارة الهندسية",
+            "tooltipEn": "Chat Directly with Engineering Dept",
+            "pulseGlow": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        }
+      ],
+      "createdBy": "Senior Corporate Content Strategist",
+      "createdAt": "2026-08-22T21:35:12.281Z",
+      "publishedAt": "2026-08-22T21:35:12.281Z",
+      "changeNote": "اعتماد ونشر المحتوى المؤسسي الشامل للرئيسية"
+    },
+    "cms_published_page-about": {
+      "id": "ver-about-published-v3-corporate",
+      "pageId": "page-about",
+      "versionNumber": 3,
+      "state": "published",
+      "titleAr": "صفحة عن الشركة المعتمدة (الرؤية والرسالة والقيم)",
+      "titleEn": "Corporate About Page (Vision, Mission & Values)",
+      "blocks": [
+        {
+          "id": "block-about-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "عن شركة هضاب الخليج العربي للمقاولات",
+            "tagEn": "ABOUT ARABIAN GULF HILLS CONTRACTING CO.",
+            "titleAr": "ريادة هندسية وطنية وشراكة استراتيجية في التنمية الحضرية",
+            "titleEn": "Engineering Leadership & Strategic National Infrastructure Partnership",
+            "subtitleAr": "شركة سعودية رائدة متخصصة في تنفيذ مقاولات البنية التحتية، رصف وصيانة الطرق، تمديد شبكات تصريف مياه الأمطار والسيول، تشغيل المرافق والمقابر، وتصنيع الحواجز الخرسانية مسبقة الصب وفق أعلى معايير الكود السعودي.",
+            "subtitleEn": "A premier Saudi contracting company executing civil infrastructure, road milling & paving, stormwater drainage networks, municipal facility & cemetery O&M, and precast concrete barrier manufacturing.",
+            "primaryCtaTextAr": "استعراض الهيكل الإداري والفني",
+            "primaryCtaTextEn": "Executive Leadership",
+            "primaryCtaLink": "/team",
+            "secondaryCtaTextAr": "الشهادات والاعتمادات الرسمية",
+            "secondaryCtaTextEn": "Accreditations & Certificates",
+            "secondaryCtaLink": "/certificates",
+            "bgImageUrl": "/images/company-overview.jpg"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-about-vision-1",
+          "type": "richText",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "الرؤية والرسالة المؤسسية",
+            "badgeEn": "Corporate Vision & Mission",
+            "titleAr": "رؤيتنا ورسالتنا الاستراتيجية",
+            "titleEn": "Our Corporate Vision & Strategic Mission",
+            "contentAr": "### رؤيتنا (Our Vision)\nأن نكون الخيار الأول والذراع التنفيذي الأكثر موثوقية في المملكة العربية السعودية للجهات الحكومية والبلدية في مقاولات البنية التحتية والتشغيل، والمساهمة الفاعلة في تحقيق مستهدفات رؤية 2030 لرفع جودة الحياة الحضرية واستدامة المرافق.\n\n### رسالتنا (Our Mission)\nتقديم حلول هندسية وإنشائية وتشغيلية متكاملة تتسم بالدقة العالية والأمانة المهنية، من خلال الاستثمار في الكوادر الوطنية المتخصصة، تحديث أسطول الآليات والمعدات الثقيلة، والالتزام بأعلى معايير الجودة والسلامة المهنية المعتمدة.",
+            "contentEn": "### Our Vision\nTo be the first-choice and most trusted national infrastructure and municipal operations partner in Saudi Arabia for government and municipal entities, actively advancing Saudi Vision 2030 urban quality of life and sustainability goals.\n\n### Our Mission\nTo deliver integrated civil, municipal, and operational solutions defined by technical excellence and professional integrity—driven by skilled national talent, state-of-the-art heavy machinery, and uncompromising adherence to quality, safety, and environmental benchmarks.",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-about-values-1",
+          "type": "richText",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "قيمنا ومبادئ العمل",
+            "badgeEn": "Core Values & Principles",
+            "titleAr": "القيم الجوهرية التي تقود مسيرتنا الميدانية",
+            "titleEn": "Core Values Driving Our Engineering & Field Operations",
+            "contentAr": "- **الجودة والنزاهة الهندسية:** الالتزام الصارم بمواصفات المواد والخلطات المعتمدة وتطبيق الفحوصات المخبرية الدورية.\n- **السلامة والصحة المهنية أولاً:** توفير بيئة عمل آمنة خالية من الحوادث لكافة الكوادر والعمال ومرتادي الطرق والمرافق.\n- **الدقة والانضباط في المواعيد:** تنفيذ الجداول الزمنية المعتمدة وتسليم المشاريع في مواعيدها المحددة بكفاءة تامة.\n- **الشراكة والشفافية:** بناء علاقات عمل استراتيجية ومستدامة قائمة على الوضوح التام مع شركائنا في الوزارات والبلديات.\n- **التطوير المستمر والاستدامة:** تبني أفضل الممارسات الهندسية الحديثة التي تضمن الحفاظ على الموارد والبيئة.",
+            "contentEn": "- **Engineering Integrity & Quality:** Strict adherence to approved material mix designs and rigorous continuous laboratory testing.\n- **Safety & Occupational Health First:** Zero-compromise commitment to an accident-free environment for workforce and public road users.\n- **Punctuality & Milestone Discipline:** Flawless project scheduling and on-time handover across all contracting commitments.\n- **Partnership & Transparency:** Cultivating enduring, transparent relationships with sovereign ministries and municipal authorities.\n- **Continuous Improvement & Sustainability:** Adopting modern civil engineering practices that conserve resources and protect the environment.",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-about-stats-1",
+          "type": "statistics",
+          "sortOrder": 3,
+          "isVisible": true,
+          "config": {
+            "tagAr": "مؤشرات الأداء الميداني",
+            "tagEn": "VERIFIED FIELD PERFORMANCE",
+            "titleAr": "مؤشرات أداء تعكس ريادتنا الميدانية والتنفيذية",
+            "titleEn": "Operational Metrics Reflecting National Leadership",
+            "subtitleAr": "أرقام حقيقية توثق مئات الكيلومترات من الطرق وشبكات السيول وأسطول الآليات.",
+            "subtitleEn": "Documented field metrics covering road kilometers, drainage pipelines, and heavy fleet.",
+            "selectedStatIds": [],
+            "showIcons": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-about-partners-1",
+          "type": "partners",
+          "sortOrder": 4,
+          "isVisible": true,
+          "config": {
+            "tagAr": "شركاء الثقة والنجاح",
+            "tagEn": "TRUSTED PARTNERS",
+            "titleAr": "سجل حافل من الشراكات مع الجهات الحكومية والسيادية",
+            "titleEn": "A Proven Record with Sovereign Ministries & Municipalities",
+            "subtitleAr": "شراكات مع وزارة البلديات، أمانة الرياض، أمانة القصيم، ووزارة الحرس الوطني.",
+            "subtitleEn": "Partnerships spanning MoMRAH, Riyadh Municipality, Qassim Municipality, and National Guard Health Affairs.",
+            "speedSec": 35,
+            "showProjectsCount": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-about-cta-1",
+          "type": "cta",
+          "sortOrder": 5,
+          "isVisible": true,
+          "config": {
+            "titleAr": "هل ترغب في التعرف على إمكانياتنا ومشاريعنا الميدانية بالتفصيل؟",
+            "titleEn": "Would You Like to Discuss Our Project Capabilities in Detail?",
+            "descriptionAr": "تواصل مع فريقنا الهندسي لاستعراض ملف التأهيل وعقود الصيانة ونماذج المشاريع المنفذة.",
+            "descriptionEn": "Connect with our engineering leadership to review our prequalification dossiers, O&M contracts, and executed project portfolios.",
+            "buttonTextAr": "تواصل مع الإدارة الهندسية",
+            "buttonTextEn": "Contact Engineering Dept",
+            "buttonLink": "/contact",
+            "bgColor": "from-blue-600 to-[#002060]"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        }
+      ],
+      "createdBy": "Senior Corporate Content Strategist",
+      "createdAt": "2026-08-22T21:35:12.281Z",
+      "publishedAt": "2026-08-22T21:35:12.281Z",
+      "changeNote": "اعتماد ونشر محتوى صفحة من نحن المؤسسية"
+    },
+    "cms_draft_page-about": {
+      "id": "ver-about-draft-v3-corporate",
+      "pageId": "page-about",
+      "versionNumber": 4,
+      "state": "draft",
+      "titleAr": "مسودة صفحة عن الشركة",
+      "titleEn": "About Working Draft",
+      "blocks": [
+        {
+          "id": "block-about-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "عن شركة هضاب الخليج العربي للمقاولات",
+            "tagEn": "ABOUT ARABIAN GULF HILLS CONTRACTING CO.",
+            "titleAr": "ريادة هندسية وطنية وشراكة استراتيجية في التنمية الحضرية",
+            "titleEn": "Engineering Leadership & Strategic National Infrastructure Partnership",
+            "subtitleAr": "شركة سعودية رائدة متخصصة في تنفيذ مقاولات البنية التحتية، رصف وصيانة الطرق، تمديد شبكات تصريف مياه الأمطار والسيول، تشغيل المرافق والمقابر، وتصنيع الحواجز الخرسانية مسبقة الصب وفق أعلى معايير الكود السعودي.",
+            "subtitleEn": "A premier Saudi contracting company executing civil infrastructure, road milling & paving, stormwater drainage networks, municipal facility & cemetery O&M, and precast concrete barrier manufacturing.",
+            "primaryCtaTextAr": "استعراض الهيكل الإداري والفني",
+            "primaryCtaTextEn": "Executive Leadership",
+            "primaryCtaLink": "/team",
+            "secondaryCtaTextAr": "الشهادات والاعتمادات الرسمية",
+            "secondaryCtaTextEn": "Accreditations & Certificates",
+            "secondaryCtaLink": "/certificates",
+            "bgImageUrl": "/images/company-overview.jpg"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-about-vision-1",
+          "type": "richText",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "الرؤية والرسالة المؤسسية",
+            "badgeEn": "Corporate Vision & Mission",
+            "titleAr": "رؤيتنا ورسالتنا الاستراتيجية",
+            "titleEn": "Our Corporate Vision & Strategic Mission",
+            "contentAr": "### رؤيتنا (Our Vision)\nأن نكون الخيار الأول والذراع التنفيذي الأكثر موثوقية في المملكة العربية السعودية للجهات الحكومية والبلدية في مقاولات البنية التحتية والتشغيل، والمساهمة الفاعلة في تحقيق مستهدفات رؤية 2030 لرفع جودة الحياة الحضرية واستدامة المرافق.\n\n### رسالتنا (Our Mission)\nتقديم حلول هندسية وإنشائية وتشغيلية متكاملة تتسم بالدقة العالية والأمانة المهنية، من خلال الاستثمار في الكوادر الوطنية المتخصصة، تحديث أسطول الآليات والمعدات الثقيلة، والالتزام بأعلى معايير الجودة والسلامة المهنية المعتمدة.",
+            "contentEn": "### Our Vision\nTo be the first-choice and most trusted national infrastructure and municipal operations partner in Saudi Arabia for government and municipal entities, actively advancing Saudi Vision 2030 urban quality of life and sustainability goals.\n\n### Our Mission\nTo deliver integrated civil, municipal, and operational solutions defined by technical excellence and professional integrity—driven by skilled national talent, state-of-the-art heavy machinery, and uncompromising adherence to quality, safety, and environmental benchmarks.",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-about-values-1",
+          "type": "richText",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "قيمنا ومبادئ العمل",
+            "badgeEn": "Core Values & Principles",
+            "titleAr": "القيم الجوهرية التي تقود مسيرتنا الميدانية",
+            "titleEn": "Core Values Driving Our Engineering & Field Operations",
+            "contentAr": "- **الجودة والنزاهة الهندسية:** الالتزام الصارم بمواصفات المواد والخلطات المعتمدة وتطبيق الفحوصات المخبرية الدورية.\n- **السلامة والصحة المهنية أولاً:** توفير بيئة عمل آمنة خالية من الحوادث لكافة الكوادر والعمال ومرتادي الطرق والمرافق.\n- **الدقة والانضباط في المواعيد:** تنفيذ الجداول الزمنية المعتمدة وتسليم المشاريع في مواعيدها المحددة بكفاءة تامة.\n- **الشراكة والشفافية:** بناء علاقات عمل استراتيجية ومستدامة قائمة على الوضوح التام مع شركائنا في الوزارات والبلديات.\n- **التطوير المستمر والاستدامة:** تبني أفضل الممارسات الهندسية الحديثة التي تضمن الحفاظ على الموارد والبيئة.",
+            "contentEn": "- **Engineering Integrity & Quality:** Strict adherence to approved material mix designs and rigorous continuous laboratory testing.\n- **Safety & Occupational Health First:** Zero-compromise commitment to an accident-free environment for workforce and public road users.\n- **Punctuality & Milestone Discipline:** Flawless project scheduling and on-time handover across all contracting commitments.\n- **Partnership & Transparency:** Cultivating enduring, transparent relationships with sovereign ministries and municipal authorities.\n- **Continuous Improvement & Sustainability:** Adopting modern civil engineering practices that conserve resources and protect the environment.",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-about-stats-1",
+          "type": "statistics",
+          "sortOrder": 3,
+          "isVisible": true,
+          "config": {
+            "tagAr": "مؤشرات الأداء الميداني",
+            "tagEn": "VERIFIED FIELD PERFORMANCE",
+            "titleAr": "مؤشرات أداء تعكس ريادتنا الميدانية والتنفيذية",
+            "titleEn": "Operational Metrics Reflecting National Leadership",
+            "subtitleAr": "أرقام حقيقية توثق مئات الكيلومترات من الطرق وشبكات السيول وأسطول الآليات.",
+            "subtitleEn": "Documented field metrics covering road kilometers, drainage pipelines, and heavy fleet.",
+            "selectedStatIds": [],
+            "showIcons": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-about-partners-1",
+          "type": "partners",
+          "sortOrder": 4,
+          "isVisible": true,
+          "config": {
+            "tagAr": "شركاء الثقة والنجاح",
+            "tagEn": "TRUSTED PARTNERS",
+            "titleAr": "سجل حافل من الشراكات مع الجهات الحكومية والسيادية",
+            "titleEn": "A Proven Record with Sovereign Ministries & Municipalities",
+            "subtitleAr": "شراكات مع وزارة البلديات، أمانة الرياض، أمانة القصيم، ووزارة الحرس الوطني.",
+            "subtitleEn": "Partnerships spanning MoMRAH, Riyadh Municipality, Qassim Municipality, and National Guard Health Affairs.",
+            "speedSec": 35,
+            "showProjectsCount": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-about-cta-1",
+          "type": "cta",
+          "sortOrder": 5,
+          "isVisible": true,
+          "config": {
+            "titleAr": "هل ترغب في التعرف على إمكانياتنا ومشاريعنا الميدانية بالتفصيل؟",
+            "titleEn": "Would You Like to Discuss Our Project Capabilities in Detail?",
+            "descriptionAr": "تواصل مع فريقنا الهندسي لاستعراض ملف التأهيل وعقود الصيانة ونماذج المشاريع المنفذة.",
+            "descriptionEn": "Connect with our engineering leadership to review our prequalification dossiers, O&M contracts, and executed project portfolios.",
+            "buttonTextAr": "تواصل مع الإدارة الهندسية",
+            "buttonTextEn": "Contact Engineering Dept",
+            "buttonLink": "/contact",
+            "bgColor": "from-blue-600 to-[#002060]"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        }
+      ],
+      "createdBy": "Senior Corporate Content Strategist",
+      "createdAt": "2026-08-22T21:35:12.281Z",
+      "publishedAt": null,
+      "changeNote": "مسودة صفحة عن الشركة"
+    },
+    "cms_published_page-chairman": {
+      "id": "ver-chairman-published-v2-corporate",
+      "pageId": "page-chairman",
+      "versionNumber": 2,
+      "state": "published",
+      "titleAr": "كلمة رئيس مجلس الإدارة المعتمدة",
+      "titleEn": "Chairman's Message Published Version",
+      "blocks": [
+        {
+          "id": "block-chairman-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "القيادة الاستراتيجية والرسالة المؤسسية",
+            "tagEn": "EXECUTIVE LEADERSHIP & STRATEGIC DIRECTION",
+            "titleAr": "كلمة رئيس مجلس الإدارة",
+            "titleEn": "Chairman's Executive Message",
+            "subtitleAr": "نواصل مسيرة البناء والتطوير، مستندين إلى كوادرنا الوطنية وأحدث التقنيات الهندسية للمساهمة الفاعلة في تحقيق مستهدفات رؤية المملكة 2030.",
+            "subtitleEn": "Advancing sustainable infrastructure development powered by national talent and engineering innovation to realize Saudi Vision 2030 objectives.",
+            "primaryCtaTextAr": "الملف التعريفي للشركة",
+            "primaryCtaTextEn": "Corporate Profile",
+            "primaryCtaLink": "/about",
+            "secondaryCtaTextAr": "تواصل مع الإدارة",
+            "secondaryCtaTextEn": "Contact Leadership",
+            "secondaryCtaLink": "/contact",
+            "bgImageUrl": "/images/hero-bg.webp"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-chairman-text-1",
+          "type": "richText",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "رسالة القيادة",
+            "badgeEn": "Executive Address",
+            "titleAr": "نحو مستقبل حضري مستدام وبنية تحتية تفوق التوقعات",
+            "titleEn": "Building Resilient Urban Infrastructure for Saudi Future Generations",
+            "contentAr": "بسم الله الرحمن الرحيم،\n\nيشهد قطاع التشييد والبنية التحتية في المملكة العربية السعودية نهضة تنموية غير مسبوقة في ظل القيادة الرشيدة ومستهدفات رؤية المملكة 2030 الطموحة.\n\nمنذ انطلاقة شركة هضاب الخليج العربي للمقاولات، وضعنا نصب أعيننا التميز الهندسي، الجودة غير القابلة للمساومة، والأمانة المهنية في كل مشروع نتولى تنفيذه. نفتخر اليوم بكوننا شريكاً موثوقاً لوزارة البلديات والإسكان، أمانة منطقة الرياض، أمانة منطقة القصيم، ووزارة الحرس الوطني في تنفيذ مشاريع حيوية تمس الحياة اليومية للمواطن والمقيم.\n\nإن نجاحنا يرتكز على الاستثمار المستمر في كوادرنا الهندسية والفنية، وامتلاك وتحديث أسطول الآليات والمعدات المتطورة، والحرص على تطبيق أعلى معايير السلامة المهنية والمحافظة على البيئة.\n\nسنواصل بإذن الله مسيرة العطاء والارتقاء بقدراتنا التشغيلية والتصنيعية لنكون دوماً في طليعة الشركات الوطنية المساهمة في بناء بنية تحتية مستدامة تليق بمكانة وطننا الغالي.\n\n**رئيس مجلس الإدارة**  \n*شركة هضاب الخليج العربي للمقاولات*",
+            "contentEn": "In the Name of Allah, the Most Gracious, the Most Merciful,\n\nThe civil construction and infrastructure sector in the Kingdom of Saudi Arabia is experiencing an unprecedented era of growth and modernization under the visionary guidance of Saudi Vision 2030.\n\nSince the founding of Arabian Gulf Hills Contracting Co., our primary commitment has been uncompromising engineering excellence, professional integrity, and meticulous execution across every public and municipal contract. Today, we take immense pride in serving as an approved, dependable contractor for the Ministry of Municipalities and Housing, Riyadh Region Municipality, Al-Qassim Municipality, and the Ministry of National Guard Health Affairs.\n\nOur institutional success stems from persistent investment in qualified national engineering talent, continuous modernization of our heavy equipment fleet, and strict adherence to occupational safety and environmental sustainability standards.\n\nWe remain steadfast in our dedication to expanding our operational and manufacturing capabilities, ensuring Arabian Gulf Hills continues to stand at the forefront of national powerhouses building resilient infrastructure for future generations.\n\n**Chairman of the Board**  \n*Arabian Gulf Hills Contracting Company*",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-chairman-cta-1",
+          "type": "cta",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "titleAr": "تواصل مباشرة مع الإدارة العامة لشركة هضاب الخليج",
+            "titleEn": "Connect Directly with Gulf Hills Executive Management",
+            "descriptionAr": "يسعدنا استقبال استفساراتكم ومناقشة الشراكات والمشاريع المستقبلية عبر القنوات الرسمية.",
+            "descriptionEn": "We welcome strategic inquiries, partnerships, and tender discussions through our official corporate channels.",
+            "buttonTextAr": "طلب التواصل المباشر",
+            "buttonTextEn": "Initiate Corporate Discussion",
+            "buttonLink": "/contact",
+            "bgColor": "from-blue-600 to-[#002060]"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        }
+      ],
+      "createdBy": "Senior Corporate Content Strategist",
+      "createdAt": "2026-08-22T21:35:12.281Z",
+      "publishedAt": "2026-08-22T21:35:12.281Z",
+      "changeNote": "اعتماد ونشر كلمة رئيس مجلس الإدارة"
+    },
+    "cms_draft_page-chairman": {
+      "id": "ver-chairman-draft-v2-corporate",
+      "pageId": "page-chairman",
+      "versionNumber": 3,
+      "state": "draft",
+      "titleAr": "مسودة كلمة رئيس المجلس",
+      "titleEn": "Chairman's Message Working Draft",
+      "blocks": [
+        {
+          "id": "block-chairman-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "القيادة الاستراتيجية والرسالة المؤسسية",
+            "tagEn": "EXECUTIVE LEADERSHIP & STRATEGIC DIRECTION",
+            "titleAr": "كلمة رئيس مجلس الإدارة",
+            "titleEn": "Chairman's Executive Message",
+            "subtitleAr": "نواصل مسيرة البناء والتطوير، مستندين إلى كوادرنا الوطنية وأحدث التقنيات الهندسية للمساهمة الفاعلة في تحقيق مستهدفات رؤية المملكة 2030.",
+            "subtitleEn": "Advancing sustainable infrastructure development powered by national talent and engineering innovation to realize Saudi Vision 2030 objectives.",
+            "primaryCtaTextAr": "الملف التعريفي للشركة",
+            "primaryCtaTextEn": "Corporate Profile",
+            "primaryCtaLink": "/about",
+            "secondaryCtaTextAr": "تواصل مع الإدارة",
+            "secondaryCtaTextEn": "Contact Leadership",
+            "secondaryCtaLink": "/contact",
+            "bgImageUrl": "/images/hero-bg.webp"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-chairman-text-1",
+          "type": "richText",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "رسالة القيادة",
+            "badgeEn": "Executive Address",
+            "titleAr": "نحو مستقبل حضري مستدام وبنية تحتية تفوق التوقعات",
+            "titleEn": "Building Resilient Urban Infrastructure for Saudi Future Generations",
+            "contentAr": "بسم الله الرحمن الرحيم،\n\nيشهد قطاع التشييد والبنية التحتية في المملكة العربية السعودية نهضة تنموية غير مسبوقة في ظل القيادة الرشيدة ومستهدفات رؤية المملكة 2030 الطموحة.\n\nمنذ انطلاقة شركة هضاب الخليج العربي للمقاولات، وضعنا نصب أعيننا التميز الهندسي، الجودة غير القابلة للمساومة، والأمانة المهنية في كل مشروع نتولى تنفيذه. نفتخر اليوم بكوننا شريكاً موثوقاً لوزارة البلديات والإسكان، أمانة منطقة الرياض، أمانة منطقة القصيم، ووزارة الحرس الوطني في تنفيذ مشاريع حيوية تمس الحياة اليومية للمواطن والمقيم.\n\nإن نجاحنا يرتكز على الاستثمار المستمر في كوادرنا الهندسية والفنية، وامتلاك وتحديث أسطول الآليات والمعدات المتطورة، والحرص على تطبيق أعلى معايير السلامة المهنية والمحافظة على البيئة.\n\nسنواصل بإذن الله مسيرة العطاء والارتقاء بقدراتنا التشغيلية والتصنيعية لنكون دوماً في طليعة الشركات الوطنية المساهمة في بناء بنية تحتية مستدامة تليق بمكانة وطننا الغالي.\n\n**رئيس مجلس الإدارة**  \n*شركة هضاب الخليج العربي للمقاولات*",
+            "contentEn": "In the Name of Allah, the Most Gracious, the Most Merciful,\n\nThe civil construction and infrastructure sector in the Kingdom of Saudi Arabia is experiencing an unprecedented era of growth and modernization under the visionary guidance of Saudi Vision 2030.\n\nSince the founding of Arabian Gulf Hills Contracting Co., our primary commitment has been uncompromising engineering excellence, professional integrity, and meticulous execution across every public and municipal contract. Today, we take immense pride in serving as an approved, dependable contractor for the Ministry of Municipalities and Housing, Riyadh Region Municipality, Al-Qassim Municipality, and the Ministry of National Guard Health Affairs.\n\nOur institutional success stems from persistent investment in qualified national engineering talent, continuous modernization of our heavy equipment fleet, and strict adherence to occupational safety and environmental sustainability standards.\n\nWe remain steadfast in our dedication to expanding our operational and manufacturing capabilities, ensuring Arabian Gulf Hills continues to stand at the forefront of national powerhouses building resilient infrastructure for future generations.\n\n**Chairman of the Board**  \n*Arabian Gulf Hills Contracting Company*",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-chairman-cta-1",
+          "type": "cta",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "titleAr": "تواصل مباشرة مع الإدارة العامة لشركة هضاب الخليج",
+            "titleEn": "Connect Directly with Gulf Hills Executive Management",
+            "descriptionAr": "يسعدنا استقبال استفساراتكم ومناقشة الشراكات والمشاريع المستقبلية عبر القنوات الرسمية.",
+            "descriptionEn": "We welcome strategic inquiries, partnerships, and tender discussions through our official corporate channels.",
+            "buttonTextAr": "طلب التواصل المباشر",
+            "buttonTextEn": "Initiate Corporate Discussion",
+            "buttonLink": "/contact",
+            "bgColor": "from-blue-600 to-[#002060]"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        }
+      ],
+      "createdBy": "Senior Corporate Content Strategist",
+      "createdAt": "2026-08-22T21:35:12.281Z",
+      "publishedAt": null,
+      "changeNote": "مسودة كلمة رئيس مجلس الإدارة"
+    },
+    "cms_published_page-contact": {
+      "id": "ver-contact-published-v2-corporate",
+      "pageId": "page-contact",
+      "versionNumber": 2,
+      "state": "published",
+      "titleAr": "صفحة التواصل وطلب عروض الأسعار المعتمدة",
+      "titleEn": "Corporate Contact & RFQ Page Published",
+      "blocks": [
+        {
+          "id": "block-contact-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "قنوات التواصل المباشرة وطلب عروض الأسعار",
+            "tagEn": "DIRECT CORPORATE CHANNELS & TENDER RFQ DESK",
+            "titleAr": "تواصل مع الإدارة الهندسية لشركة هضاب الخليج",
+            "titleEn": "Connect with Gulf Hills Engineering & Tender Management",
+            "subtitleAr": "فريقنا الهندسي المتخصص في إدارة المشاريع وتقدير التكاليف على أتم الاستعداد لتقديم الاستشارات الفنية وعروض الأسعار التنافسية لجميع مشاريع الطرق والسيول والمرافق والحواجز الخرسانية.",
+            "subtitleEn": "Our specialized engineering project and cost estimation desk is ready to provide technical consultations, site evaluations, and competitive tenders for civil, municipal, and precast barrier scopes.",
+            "primaryCtaTextAr": "الهاتف المباشر: 00966115126774",
+            "primaryCtaTextEn": "Call Direct: +966 11 512 6774",
+            "primaryCtaLink": "tel:00966115126774",
+            "secondaryCtaTextAr": "محادثة واتساب فورية",
+            "secondaryCtaTextEn": "Instant WhatsApp Inquiries",
+            "secondaryCtaLink": "https://wa.me/966115126774",
+            "bgImageUrl": "/images/hero-bg.webp"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-contact-info-text",
+          "type": "richText",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "بيانات المقر وأوقات العمل",
+            "badgeEn": "Corporate HQ & Operating Hours",
+            "titleAr": "معلومات التواصل والموقع الميداني",
+            "titleEn": "Headquarters Location & Official Contact Channels",
+            "contentAr": "- **المقر الرئيسي:** مدينة الرياض، المملكة العربية السعودية.\n- **رقم الهاتف المباشر:** 00966115126774\n- **البريد الإلكتروني للإدارة والمشاريع:** info@hedabkh.com.sa\n- **أوقات العمل الرسمية:** الأحد إلى الخميس من الساعة 8:00 صباحاً حتى 5:00 مساءً.\n- **فرق الطوارئ الميدانية:** متوفرة على مدار 24 ساعة للتعامل مع بلاغات عقود الصيانة وشبكات السيول.",
+            "contentEn": "- **Corporate Headquarters:** Riyadh City, Kingdom of Saudi Arabia.\n- **Direct Telephone:** +966 11 512 6774\n- **Official Projects Email:** info@hedabkh.com.sa\n- **Official Operating Hours:** Sunday to Thursday, 8:00 AM – 5:00 PM.\n- **Emergency Field Crews:** Stationed 24/7 for municipal maintenance and stormwater drainage emergencies.",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-contact-form-1",
+          "type": "contactForm",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "titleAr": "نموذج طلب استشارة فنية أو عرض سعر (RFQ)",
+            "titleEn": "Request for Quotation (RFQ) & Technical Inquiry Form",
+            "subtitleAr": "يرجى تزويدنا ببيانات المشروع والمتطلبات وسيقوم مهندس المشاريع المختص بالتواصل معكم خلال 24 ساعة عمل.",
+            "subtitleEn": "Please submit your project specifications and our engineering department will contact you within 24 business hours.",
+            "submitButtonTextAr": "إرسال طلب عرض السعر",
+            "submitButtonTextEn": "Submit RFQ Request",
+            "recipientEmail": "info@hedabkh.com.sa",
+            "showPhoneField": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-contact-whatsapp-1",
+          "type": "whatsapp",
+          "sortOrder": 3,
+          "isVisible": true,
+          "config": {
+            "phoneNumber": "966115126774",
+            "defaultMessageAr": "مرحباً، أود الاستفسار عن إمكانية تقديم عرض سعر لمشروع مقاولات بنية تحتية أو توريد حواجز خرسانية.",
+            "defaultMessageEn": "Hello, I would like to inquire about an RFQ for infrastructure contracting or precast barrier supply.",
+            "tooltipAr": "تواصل معنا عبر واتساب",
+            "tooltipEn": "Chat with us on WhatsApp",
+            "pulseGlow": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-contact-footer-1",
+          "type": "footer",
+          "sortOrder": 4,
+          "isVisible": true,
+          "config": {
+            "copyrightAr": "جميع الحقوق محفوظة © شركة هضاب الخليج العربي للمقاولات 2026",
+            "copyrightEn": "All Rights Reserved © Arabian Gulf Hills Contracting Co. 2026",
+            "headquartersAr": "المملكة العربية السعودية - الرياض",
+            "headquartersEn": "Kingdom of Saudi Arabia - Riyadh",
+            "email": "info@hedabkh.com.sa",
+            "phone": "00966115126774",
+            "showSocialLinks": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        }
+      ],
+      "createdBy": "Senior Corporate Content Strategist",
+      "createdAt": "2026-08-22T21:35:12.281Z",
+      "publishedAt": "2026-08-22T21:35:12.281Z",
+      "changeNote": "اعتماد ونشر صفحة التواصل وطلب عروض الأسعار"
+    },
+    "cms_draft_page-contact": {
+      "id": "ver-contact-draft-v2-corporate",
+      "pageId": "page-contact",
+      "versionNumber": 3,
+      "state": "draft",
+      "titleAr": "مسودة صفحة التواصل",
+      "titleEn": "Contact Working Draft",
+      "blocks": [
+        {
+          "id": "block-contact-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "قنوات التواصل المباشرة وطلب عروض الأسعار",
+            "tagEn": "DIRECT CORPORATE CHANNELS & TENDER RFQ DESK",
+            "titleAr": "تواصل مع الإدارة الهندسية لشركة هضاب الخليج",
+            "titleEn": "Connect with Gulf Hills Engineering & Tender Management",
+            "subtitleAr": "فريقنا الهندسي المتخصص في إدارة المشاريع وتقدير التكاليف على أتم الاستعداد لتقديم الاستشارات الفنية وعروض الأسعار التنافسية لجميع مشاريع الطرق والسيول والمرافق والحواجز الخرسانية.",
+            "subtitleEn": "Our specialized engineering project and cost estimation desk is ready to provide technical consultations, site evaluations, and competitive tenders for civil, municipal, and precast barrier scopes.",
+            "primaryCtaTextAr": "الهاتف المباشر: 00966115126774",
+            "primaryCtaTextEn": "Call Direct: +966 11 512 6774",
+            "primaryCtaLink": "tel:00966115126774",
+            "secondaryCtaTextAr": "محادثة واتساب فورية",
+            "secondaryCtaTextEn": "Instant WhatsApp Inquiries",
+            "secondaryCtaLink": "https://wa.me/966115126774",
+            "bgImageUrl": "/images/hero-bg.webp"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-contact-info-text",
+          "type": "richText",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "بيانات المقر وأوقات العمل",
+            "badgeEn": "Corporate HQ & Operating Hours",
+            "titleAr": "معلومات التواصل والموقع الميداني",
+            "titleEn": "Headquarters Location & Official Contact Channels",
+            "contentAr": "- **المقر الرئيسي:** مدينة الرياض، المملكة العربية السعودية.\n- **رقم الهاتف المباشر:** 00966115126774\n- **البريد الإلكتروني للإدارة والمشاريع:** info@hedabkh.com.sa\n- **أوقات العمل الرسمية:** الأحد إلى الخميس من الساعة 8:00 صباحاً حتى 5:00 مساءً.\n- **فرق الطوارئ الميدانية:** متوفرة على مدار 24 ساعة للتعامل مع بلاغات عقود الصيانة وشبكات السيول.",
+            "contentEn": "- **Corporate Headquarters:** Riyadh City, Kingdom of Saudi Arabia.\n- **Direct Telephone:** +966 11 512 6774\n- **Official Projects Email:** info@hedabkh.com.sa\n- **Official Operating Hours:** Sunday to Thursday, 8:00 AM – 5:00 PM.\n- **Emergency Field Crews:** Stationed 24/7 for municipal maintenance and stormwater drainage emergencies.",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-contact-form-1",
+          "type": "contactForm",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "titleAr": "نموذج طلب استشارة فنية أو عرض سعر (RFQ)",
+            "titleEn": "Request for Quotation (RFQ) & Technical Inquiry Form",
+            "subtitleAr": "يرجى تزويدنا ببيانات المشروع والمتطلبات وسيقوم مهندس المشاريع المختص بالتواصل معكم خلال 24 ساعة عمل.",
+            "subtitleEn": "Please submit your project specifications and our engineering department will contact you within 24 business hours.",
+            "submitButtonTextAr": "إرسال طلب عرض السعر",
+            "submitButtonTextEn": "Submit RFQ Request",
+            "recipientEmail": "info@hedabkh.com.sa",
+            "showPhoneField": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-contact-whatsapp-1",
+          "type": "whatsapp",
+          "sortOrder": 3,
+          "isVisible": true,
+          "config": {
+            "phoneNumber": "966115126774",
+            "defaultMessageAr": "مرحباً، أود الاستفسار عن إمكانية تقديم عرض سعر لمشروع مقاولات بنية تحتية أو توريد حواجز خرسانية.",
+            "defaultMessageEn": "Hello, I would like to inquire about an RFQ for infrastructure contracting or precast barrier supply.",
+            "tooltipAr": "تواصل معنا عبر واتساب",
+            "tooltipEn": "Chat with us on WhatsApp",
+            "pulseGlow": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        },
+        {
+          "id": "block-contact-footer-1",
+          "type": "footer",
+          "sortOrder": 4,
+          "isVisible": true,
+          "config": {
+            "copyrightAr": "جميع الحقوق محفوظة © شركة هضاب الخليج العربي للمقاولات 2026",
+            "copyrightEn": "All Rights Reserved © Arabian Gulf Hills Contracting Co. 2026",
+            "headquartersAr": "المملكة العربية السعودية - الرياض",
+            "headquartersEn": "Kingdom of Saudi Arabia - Riyadh",
+            "email": "info@hedabkh.com.sa",
+            "phone": "00966115126774",
+            "showSocialLinks": true
+          },
+          "createdAt": "2026-08-22T21:35:12.281Z",
+          "updatedAt": "2026-08-22T21:35:12.281Z"
+        }
+      ],
+      "createdBy": "Senior Corporate Content Strategist",
+      "createdAt": "2026-08-22T21:35:12.281Z",
+      "publishedAt": null,
+      "changeNote": "مسودة صفحة التواصل"
+    },
+    "gulf_hills_rich_articles": [
+      {
+        "id": "article-1",
+        "slug": "stormwater-drainage-engineering-standards",
+        "titleAr": "معايير الهندسة الهيدروليكية لتنفيذ شبكات تصريف مياه الأمطار والسيول",
+        "titleEn": "Hydraulic Engineering Standards for Stormwater & Flood Mitigation Networks",
+        "categoryAr": "الهندسة والبنية التحتية",
+        "categoryEn": "Civil & Infrastructure Engineering",
+        "readTimeAr": "6 دقائق قراءة",
+        "readTimeEn": "6 min read",
+        "publishedDate": "2026-08-20",
+        "coverImage": "/images/services/stormwater-drainage.jpg",
+        "summaryAr": "دليل فني يستعرض متطلبات تخطيط وتمديد قنوات تصريف السيول والأنابيب الخرسانية المسلحة واختبارات الجريان الهيدروليكي لحماية الأحياء الحضرية.",
+        "summaryEn": "A comprehensive technical overview of hydraulic planning, reinforced concrete drainage pipelines, and flood mitigation in urban developments.",
+        "contentAr": "تعتبر شبكات تصريف مياه الأمطار والسيول من أهم ركائز البنية التحتية الحضرية التي تضمن سلامة الأرواح وحماية الممتلكات العامة والخاصة من مخاطر التجمعات المائية والفيضانات المفاجئة.\n\n### 1. الدراسات الهيدرولوجية والمناسيب الطبوغرافية\nيبدأ العمل الهندسي بإجراء دراسات هيدرولوجية دقيقة لحساب معدلات هطول الأمطار وحجم التدفق السطحي المتوقع وفق فترات تكرار تصميمية محددة. يتم استخدام أحدث أجهزة المساحة وتطبيقات النمذجة الرقمية لتحديد مسارات الانحدار الطبيعية وضمان التدفق الذاتي للمياه دون ركود.\n\n### 2. مواصفات الأنابيب والعبارات الخرسانية المسلحة\nتعتمد شركة هضاب الخليج على تمديد أنابيب خرسانية مسلحة مطابقة للمواصفات القياسية السعودية (SASO) وبأقطار تتراوح بين 600 ملم وتصل إلى 2400 ملم، مع مراعاة العزل الخارجي المقاوم للأملاح والكبريتات لضمان عمر افتراضي طويل يتجاوز 50 عاماً.\n\n### 3. مصائد السيول وغرف التفتيش ومحطات التجميع\nيتم توزيع مصائد الأمطار (Catch Basins) في النقاط المنخفضة من الشوارع والتقاطعات الحيوية، وتوصيلها بغرف تفتيش خرسانية دورية تتيح عمليات الفحص والتطهير الدوري قبل وأثناء مواسم الأمطار.\n\n### 4. الصيانة الوقائية والجاهزية الميدانية\nتتضمن الصيانة الوقائية تفريغ الرواسب والمخلفات الطينية من القنوات المفتوحة والمغلقة، واستخدام آليات الشفط والضغط العالي لضمان جاهزية الشبكة بنسبة 100% لاستيعاب مياه الأمطار بكفاءة وانسيابية.",
+        "contentEn": "Stormwater drainage networks are fundamental to sustainable urban infrastructure, safeguarding lives and public assets against sudden flood risks.\n\n### 1. Hydrological Analysis & Topographic Surveys\nEngineering starts with in-depth hydrological studies calculating precipitation runoff volumes and hydraulic flow rates. Digital terrain modeling guarantees natural gravity flow without water stagnation.\n\n### 2. Reinforced Concrete Pipelines & Culvert Specifications\nGulf Hills installs reinforced concrete pipes complying with SASO standards (diameters from 600mm up to 2400mm), treated with sulfate-resistant exterior coatings ensuring a 50+ year operational lifespan.\n\n### 3. Catch Basins, Manholes & Intake Structures\nCatch basins are strategically positioned at road depressions and critical intersections, connected to reinforced concrete inspection manholes for seamless pre-season desilting and inspection.\n\n### 4. Preventative Maintenance & Operational Readiness\nPreventative O&M involves removing sediment buildup using high-pressure jetting and vacuum tankers, ensuring 100% continuous drainage capacity during wet seasons."
+      },
+      {
+        "id": "article-2",
+        "slug": "urban-asphalt-paving-quality-control",
+        "titleAr": "دليل ضبط جودة كشط وسفلتة الطرق الحضرية وفق مواصفات وزارة النقل",
+        "titleEn": "Quality Control Standards for Urban Road Milling & Asphalt Paving",
+        "categoryAr": "مقاولات الطرق والنقل",
+        "categoryEn": "Road Construction & Paving",
+        "readTimeAr": "5 دقائق قراءة",
+        "readTimeEn": "5 min read",
+        "publishedDate": "2026-08-18",
+        "coverImage": "/images/services/road-maintenance.jpg",
+        "summaryAr": "استعراض لخطوات الكشط الآلي للطبقات المتضررة، ضبط درجات حرارة الخلطة الأسفلتية، وضمان معاملات الدمج والاستواء لسطح الطريق.",
+        "summaryEn": "Detailed guide covering cold milling techniques, asphalt mix temperature control, and compaction ratios for long-lasting urban road surfaces.",
+        "contentAr": "يتطلب إنشاء وصيانة الطرق الحضرية التزاماً صارماً بالمعايير الهندسية لضمان سلامة الحركة المرورية ومقاومة السطح الأسفلتي للإجهادات الحرارية والأحمال المحورية العالية.\n\n### 1. الكشط الآلي وإعداد طبقة الأساس (Milling & Preparation)\nتستخدم شركة هضاب الخليج ماكينات الكشط الذاتي المتطورة (Cold Milling) لإزالة الطبقات الأسفلتية المتشققة أو المتموجة بعمق محدد بدقة، تليها عملية تنظيف شاملة للموقع بالهواء المضغوط ورش مادة التشريب أو اللصق (Tack Coat / Prime Coat) بالتوزيع المتجانس المطلوب.\n\n### 2. ضبط جودة الخلطة الأسفلتية الساخنة (Hot Mix Asphalt)\nيتم توريد الخلطة الأسفلتية من خلاطات معتمدة مع مراقبة درجات الحرارة بدقة عند الخروج وعند وصول الشاحنات للموقع (بين 145° إلى 165° مئوية)، لضمان سهولة الفرد والتوزيع دون حدوث انفصال حبيبي.\n\n### 3. الفرد والدمج الميكانيكي (Paving & Compaction)\nتُستخدم فرادات الأسفلت الحديثة المزودة بحساسات إلكترونية لضبط الميول والمناسيب وسماكة الطبقة المحددة، تعقبها مداحل فولاذية واهتزازية ومداحل كفرات (Pneumatic Rollers) للوصول إلى نسبة الدمج المعتمدة (98% فما فوق من كثافة مارشال).\n\n### 4. الاختبارات المعملية والاستلام النهائي\nتخضع الأعمال المنفذة لاختبارات الاستواء (IRI)، واختبارات استخراج العينات الأسطوانية (Cores) للتأكد من السماكة والدمج وخلو السطح من أي عيوب قبل الفتح المروري الكامل.",
+        "contentEn": "Urban road maintenance requires strict adherence to engineering benchmarks to ensure traffic safety and resist thermal fatigue and heavy axle loads.\n\n### 1. Cold Milling & Subgrade Preparation\nGulf Hills utilizes automated cold milling equipment to precisely remove fatigued asphalt layers, followed by compressed air clearing and uniform bitumen tack coat application.\n\n### 2. Hot Mix Asphalt Temperature Control\nAsphalt is supplied from certified batch plants with strict temperature monitoring upon delivery (145°C to 165°C), preventing binder segregation and thermal defects.\n\n### 3. Precision Paving & Mechanical Compaction\nHigh-precision electronic sensor pavers control longitudinal grade and cross-slope, followed by vibratory steel rollers and pneumatic tire compactors achieving 98%+ Marshall compaction density.\n\n### 4. Laboratory Testing & Final Acceptance\nHandover includes International Roughness Index (IRI) smoothness testing and laboratory core extractions verifying thickness, density, and structural integrity."
+      },
+      {
+        "id": "article-3",
+        "slug": "municipal-facilities-operation-and-maintenance",
+        "titleAr": "الإدارة المتكاملة والتشغيل الوقائي للمباني والمرافق الحكومية",
+        "titleEn": "Integrated Operations & Preventative Maintenance for Municipal Facilities",
+        "categoryAr": "تشغيل وصيانة المرافق",
+        "categoryEn": "Facility Management & O&M",
+        "readTimeAr": "7 دقائق قراءة",
+        "readTimeEn": "7 min read",
+        "publishedDate": "2026-08-15",
+        "coverImage": "/images/services/building-maintenance.jpg",
+        "summaryAr": "منهجية هضاب الخليج في إدارة المرافق العامة، الصيانة الإلكتروميكانيكية، وأنظمة السلامة ومكافحة الحريق لضمان الاستمرارية التشغيلية.",
+        "summaryEn": "Our strategic framework for public facility management, electro-mechanical servicing, and safety systems ensuring uninterrupted public service.",
+        "contentAr": "تتطلب المباني والمجمعات الحكومية والبلدية منظومة تشغيل وصيانة متكاملة ترتكز على الصيانة الاستباقية للحد من الأعطال المفاجئة وخفض تكاليف التشغيل على المدى الطويل.\n\n### 1. الصيانة الوقائية الدورية للأنظمة الإلكتروميكانيكية (MEP)\nتضع الشركة جداول صيانة دورية دقيقة تشمل محطات التكييف المركزي، لوحات التوزيع الكهربائية والمحولات، مضخات التغذية والمياه، وشبكات الإنارة الذكية الموفرة للطاقة.\n\n### 2. أنظمة السلامة والوقاية من الحريق (Fire & Life Safety)\nيتم فحص واختبار شبكات الإنذار المبكر، مضخات الحريق، وصمامات الرشاشات التلقائية ومخارج الطوارئ بشكل مستمر للتأكد من مطابقتها لاشتراطات الدفاع المدني والمعايير الدولية.\n\n### 3. الصيانة المدنية والترميم المعماري (Civil & Architectural Upkeep)\nمتابعة وصيانة الواجهات الخارجية، العزل المائي للأسطح، الأبواب والممرات الخدمية، والمساحات المخصصة لخدمة المراجعين لضمان مظهر حضري مشرف وبيئة عمل آمنة ومريحة.\n\n### 4. فرق الاستجابة السريعة للطوارئ (24/7 Rapid Response)\nتخصيص فرق فنية متخصصة وجاهزة للتدخل الفوري على مدار 24 ساعة للتعامل مع أي بلاغات طارئة أو انقطاعات خدمية لضمان استمرارية خدمة المواطنين دون أي توقف.",
+        "contentEn": "Government and municipal administrative complexes require an integrated facility management framework prioritizing proactive servicing to minimize unexpected downtime.\n\n### 1. Scheduled Mechanical, Electrical & Plumbing (MEP) Servicing\nGulf Hills enforces structured maintenance schedules covering central HVAC chillers, electrical distribution switchgear, water booster systems, and energy-efficient LED lighting.\n\n### 2. Fire Protection & Life Safety Compliance\nRoutine operational testing of early warning fire alarms, fire pumps, sprinkler networks, and emergency egress routes guarantees full Civil Defense compliance.\n\n### 3. Civil Upkeep & Architectural Maintenance\nContinuous inspection and maintenance of exterior building envelopes, roof waterproofing membranes, access doorways, and public reception areas maintain workplace safety.\n\n### 4. 24/7 Rapid Response Emergency Teams\nDedicated multidisciplinary technical crews are stationed for round-the-clock emergency interventions, ensuring uninterrupted municipal public services."
+      },
+      {
+        "id": "article-4",
+        "slug": "precast-concrete-barriers-safety-specifications",
+        "titleAr": "المواصفات الفنية واستخدامات الحواجز الخرسانية مسبقة الصب (نيوجيرسي)",
+        "titleEn": "Technical Specifications & Applications of Precast Concrete Safety Barriers (New Jersey)",
+        "categoryAr": "السلامة المرورية والتصنيع الخرساني",
+        "categoryEn": "Traffic Safety & Precast Concrete",
+        "readTimeAr": "5 دقائق قراءة",
+        "readTimeEn": "5 min read",
+        "publishedDate": "2026-08-12",
+        "coverImage": "/images/services/precast-barriers.jpg",
+        "summaryAr": "أهمية حواجز نيوجيرسي الخرسانية في تنظيم الحركة المرورية وحماية مناطق العمل وتأمين المحاور السريعة وفق اشتراطات السلامة.",
+        "summaryEn": "The critical role of precast New Jersey concrete barriers in highway vehicle redirection, work-zone protection, and municipal safety.",
+        "contentAr": "تعتبر الحواجز الخرسانية مسبقة الصب من طراز نيوجيرسي (New Jersey Barriers) عنصراً أساسياً في هندسة السلامة المرورية والتحكم في مسارات السير بالمملكة.\n\n### 1. التصميم الهندسي وتشتيت قوى الصدمة\nيتميز مقطع حاجز نيوجيرسي بانحدار مدروس في قاعدته يعمل على رفع إطار المركبة عند الاصطدام المائل وإعادة توجيهها إلى المسار بأمان مع امتصاص طاقة الصدمة وتقليل أثر الاصطدام المباشر.\n\n### 2. مواصفات الخرسانة والتسليح\nتُصب الحواجز في قوالب فولاذية دقيقة باستخدام خرسانة عالية المقاومة (تتجاوز 35-40 ميجاباسكال) ومسلحة بقضبان حديد عالية الإجهاد مع معالجة بالبخار والمثبطات الكيميائية لمقاومة العوامل الجوية القاسية.\n\n### 3. مجالات التطبيق والاستخدام\n- الفصل بين الاتجاهات المعاكسة على الطرق السريعة والمحاور الرئيسية.\n- حماية مواقع العمل الإنشائية وفرق الصيانة على الطرق.\n- تنظيم وتأمين مواقف السيارات والمنشآت الحكومية واللوجستية.\n- إغلاق وتحويل المسارات المرورية أثناء مشاريع البنية التحتية.\n\n### 4. النقل والتركيب الميداني\nتوفر شركة هضاب الخليج أسطولاً مخصصاً من شاحنات الرافعات الهيدروليكية (Boom Trucks) لنقل وتنزيل وتثبيت الحواجز وربطها بنظام الأقفال المعدنية المعتمد بسرعة وكفاءة عالية.",
+        "contentEn": "Precast New Jersey safety barriers are an indispensable component of highway engineering and traffic control throughout Saudi Arabia.\n\n### 1. Geometric Safety Profile & Impact Deflection\nThe calibrated lower slope of the New Jersey barrier lifts vehicle tires during shallow-angle collisions, safely redirecting vehicles back into their lane while absorbing kinetic energy.\n\n### 2. High-Strength Concrete & Steel Reinforcement\nFabricated in precision steel molds using high-strength concrete (35-40+ MPa) and high-tensile rebar cages, treated with weather-resistant protective coatings.\n\n### 3. Core Field Applications\n- Median separation along divided dual-carriageway highways.\n- Protection of active construction zones and highway maintenance crews.\n- Perimeter security for government buildings, municipal yards, and logistics depots.\n- Temporary traffic detours during infrastructure execution.\n\n### 4. Transport & Site Installation\nGulf Hills operates a fleet of hydraulic boom trucks for swift deployment, precise alignment, and interlocking pin installation on site."
+      },
+      {
+        "id": "article-5",
+        "slug": "urban-visual-pollution-removal-and-city-beautification",
+        "titleAr": "برامج معالجة التشوه البصري وتحسين المشهد الحضري في المدن السعودية",
+        "titleEn": "Urban Visual Pollution Mitigation & Cityscape Enhancement Programs in Saudi Arabia",
+        "categoryAr": "المشهد الحضري والإصحاح البيئي",
+        "categoryEn": "Urban Landscape & Environmental Health",
+        "readTimeAr": "6 دقائق قراءة",
+        "readTimeEn": "6 min read",
+        "publishedDate": "2026-08-10",
+        "coverImage": "/images/services/debris-removal.jpg",
+        "summaryAr": "دور المقاولات التخصصية في إزالة الأنقاض مجهولة المصدر، ترحيل الهياكل التالفة، ومعالجة بلاغات 940 لرفع جودة الحياة.",
+        "summaryEn": "How specialized civil contracting tackles unapproved debris, abandoned structures, and 940 municipal emergency tickets to elevate urban quality of life.",
+        "contentAr": "يمثل تحسين المشهد الحضري والارتقاء بجودة الحياة أحد أبرز المحاور الرئيسية لبرامج رؤية المملكة 2030، حيث تتكامل الجهود البلدية والميدانية للقضاء على كافة مظاهر التلوث البصري.\n\n### 1. معالجة ونقل مخلفات البناء والهدم (Construction Debris Clearance)\nتتولى فرق العمل الميدانية رصد ورفع أطنان من مخلفات البناء والأنقاض مجهولة المصدر من الأراضي الفضاء ومحاور الطرق باستخدام اللوادر والشاحنات الثقيلة المجهزة، وترحيلها إلى المرادم العامة المعتمدة بيئياً.\n\n### 2. ترحيل السيارات التالفة والهياكل المهملة (Abandoned Vehicle Removal)\nالتنسيق مع الأمانات والجهات المعنية لحصر ونقل السيارات والهياكل المهملة التي تشوه المنظر العام للأحياء وتعيق حركة السير، ونقلها بأمان إلى مواقع الحجز البلدي.\n\n### 3. معالجة الهبوطات والحفر والتشوهات السطحية (Surface Defect Remediation)\nإجراء الترقيعات السطحية الفورية للحفر الأسفلتية، تسوية الأراضي الفضاء الواقعة على الشوارع الرئيسية وتسويرها، وتعديل البردورات والأرصفة المتضررة.\n\n### 4. سرعة الاستجابة الميدانية لبلاغات 940 (940 Emergency Response)\nربط فرق العمل الميدانية بنظام إدارة البلاغات البلدية لضمان سرعة التوجه للمواقع ومعالجة الملاحظات وتوثيق الإنجاز بالصور (قبل وبعد) وإغلاق البلاغ وفق مؤشرات الأداء المعتمدة.",
+        "contentEn": "Urban cityscape beautification and quality of life enhancement are core pillars of Saudi Vision 2030, driven by field operations eliminating visual pollution.\n\n### 1. Construction & Demolition Debris Clearance\nSpecialized field crews identify, load, and transport tons of unapproved construction waste and rubble from vacant parcels to designated municipal landfill facilities.\n\n### 2. Removal of Abandoned & Derelict Vehicles\nCoordinating with municipal authorities to tow abandoned vehicle frames obstructing streets and degrading neighborhood aesthetics to municipal storage yards.\n\n### 3. Road Defect Remediation & Parcel Leveling\nExecuting rapid asphalt patching for road potholes, leveling and fencing unbuilt parcels along main arterials, and restoring damaged pedestrian curbs.\n\n### 4. Rapid 940 Municipal Ticket Closure\nIntegrating mobile field units with municipal dispatch systems to promptly remediate reported visual defects with before-and-after photographic documentation."
+      }
+    ],
+    "gulf_hills_saudi_regions": [
+      {
+        "id": "region-riyadh",
+        "nameAr": "منطقة الرياض الكبرى",
+        "nameEn": "Greater Riyadh Region",
+        "activeProjectsCount": 14,
+        "coverageAr": "مدينة الرياض، العزيزية، الشفا، الحائر، الدائري الغربي، الدرعية",
+        "coverageEn": "Riyadh City, Aziziyah, Shifa, Haïr, Western Ring, Diriyah",
+        "headquartersAr": "المقر الرئيسي والمستودعات المركزية",
+        "headquartersEn": "Corporate HQ & Central Yards",
+        "fleetCount": "+45 آلية ومعدة ثقيلة",
+        "status": "active"
+      },
+      {
+        "id": "region-qassim",
+        "nameAr": "منطقة القصيم (بريدة)",
+        "nameEn": "Al-Qassim Region (Buraidah)",
+        "activeProjectsCount": 5,
+        "coverageAr": "مدينة بريدة، بلدية شرق بريدة، بلدية شمال بريدة",
+        "coverageEn": "Buraidah City, East Buraidah Municipality, North Buraidah Municipality",
+        "headquartersAr": "فرع التشغيل الميداني والصيانة",
+        "headquartersEn": "Field Operations & Maintenance Branch",
+        "fleetCount": "+20 آلية متخصصة",
+        "status": "active"
+      },
+      {
+        "id": "region-kharj",
+        "nameAr": "محافظة الخرج",
+        "nameEn": "Al-Kharj Governorate",
+        "activeProjectsCount": 6,
+        "coverageAr": "النطاق العمراني لبلدية الخرج، الدلم، والقرى التابعة",
+        "coverageEn": "Al-Kharj Municipal Jurisdiction, Dilam, and surrounding centers",
+        "headquartersAr": "مكتب إدارة عقود التشغيل والصيانة",
+        "headquartersEn": "O&M Contract Management Office",
+        "fleetCount": "+18 آلية ومعدات ضخ",
+        "status": "active"
+      },
+      {
+        "id": "region-ghat",
+        "nameAr": "محافظة الغاط",
+        "nameEn": "Al-Ghat Governorate",
+        "activeProjectsCount": 3,
+        "coverageAr": "الشوارع الرئيسية، شبكات السيول، ومداخل المحافظة",
+        "coverageEn": "Main arterials, stormwater culverts, and governorate entrances",
+        "headquartersAr": "مركز الدعم الفني الميداني",
+        "headquartersEn": "Field Technical Support Center",
+        "fleetCount": "+10 آليات صيانة وطرق",
+        "status": "active"
+      },
+      {
+        "id": "region-zulfi",
+        "nameAr": "محافظة الزلفي",
+        "nameEn": "Al-Zulfi Governorate",
+        "activeProjectsCount": 2,
+        "coverageAr": "مباني ومرافق البلدية، مستودعات وكراج الآليات",
+        "coverageEn": "Municipal facilities, logistics warehouses, and equipment depot",
+        "headquartersAr": "مكتب الإشراف الإنشائي",
+        "headquartersEn": "Civil Supervision Office",
+        "fleetCount": "+8 آليات ومعدات ترميم",
+        "status": "active"
+      },
+      {
+        "id": "region-muzahmiyah",
+        "nameAr": "محافظة المزاحمية ورماح والمجمعة",
+        "nameEn": "Al-Muzahmiyah, Rumah & Al-Majmaah",
+        "activeProjectsCount": 4,
+        "coverageAr": "طريق الملك عبد العزيز، مرافق الاستراحات البلدية، صيانة الآليات",
+        "coverageEn": "King Abdulaziz Road, municipal guest houses, fleet servicing",
+        "headquartersAr": "فرق التدخل والصيانة المتنقلة",
+        "headquartersEn": "Mobile Maintenance & Rapid Response Units",
+        "fleetCount": "+12 آلية وناقلات متخصصة",
+        "status": "active"
+      }
+    ],
+    "gulf_hills_partners": [
+      {
+        "id": "partner-1",
+        "nameAr": "وزارة الشؤون البلدية والقروية والإسكان",
+        "nameEn": "Ministry of Municipal and Rural Affairs and Housing (MoMRAH)",
+        "logoUrl": "/images/logos/ministry-municipal-affairs.jpg",
+        "category": "government",
+        "contractRoleAr": "مقاول رئيسي معتمد",
+        "contractRoleEn": "Approved Main Contractor"
+      },
+      {
+        "id": "partner-2",
+        "nameAr": "أمانة منطقة الرياض",
+        "nameEn": "Riyadh Region Municipality",
+        "logoUrl": "/images/logos/amana-riyadh.jpg",
+        "category": "municipality",
+        "contractRoleAr": "عقود صيانة وتشغيل شبكات السيول ومقابر العاصمة",
+        "contractRoleEn": "Stormwater Drainage & Cemetery O&M Contracts"
+      },
+      {
+        "id": "partner-3",
+        "nameAr": "أمانة منطقة القصيم",
+        "nameEn": "Al-Qassim Region Municipality",
+        "logoUrl": "/images/logos/amana-qassim.jpg",
+        "category": "municipality",
+        "contractRoleAr": "عقود صيانة الشوارع ومعالجة التشوه البصري ببريدة",
+        "contractRoleEn": "Road Maintenance & Visual Remediation Contracts"
+      },
+      {
+        "id": "partner-4",
+        "nameAr": "وزارة الحرس الوطني - الشؤون الصحية",
+        "nameEn": "Ministry of National Guard - Health Affairs",
+        "logoUrl": "/images/logos/national-guard.jpg",
+        "category": "government",
+        "contractRoleAr": "عقود تأهيل الخزانات وشبكات المياه والتشغيل البيئي",
+        "contractRoleEn": "Water Storage, Drainage & Environmental Health Contracts"
+      },
+      {
+        "id": "partner-5",
+        "nameAr": "بلدية محافظة الخرج",
+        "nameEn": "Al-Kharj Governorate Municipality",
+        "logoUrl": "/images/logos/baladiyah-kharj.jpg",
+        "category": "municipality",
+        "contractRoleAr": "عقود تشغيل وصيانة المباني وشبكات الأمطار",
+        "contractRoleEn": "Municipal Facility O&M & Stormwater Networks"
+      },
+      {
+        "id": "partner-6",
+        "nameAr": "بلدية محافظة الغاط",
+        "nameEn": "Al-Ghat Governorate Municipality",
+        "logoUrl": "/images/logos/baladiyah-ghat.jpg",
+        "category": "municipality",
+        "contractRoleAr": "عقود سفلتة الطرق وصيانة شبكة السيول والسلامة المرورية",
+        "contractRoleEn": "Road Paving, Stormwater Culverts & Traffic Safety"
+      },
+      {
+        "id": "partner-7",
+        "nameAr": "بلدية محافظة الزلفي",
+        "nameEn": "Al-Zulfi Governorate Municipality",
+        "logoUrl": "/images/logos/baladiyah-zulfi.jpg",
+        "category": "municipality",
+        "contractRoleAr": "عقود ترميم وصيانة المرافق والأسوار والمظلات",
+        "contractRoleEn": "Facility Renovation & Structural Maintenance"
+      },
+      {
+        "id": "partner-8",
+        "nameAr": "بلدية محافظة رماح والمزاحمية والمجمعة",
+        "nameEn": "Rumah, Muzahmiyah & Majmaah Municipalities",
+        "logoUrl": "/images/logos/baladiyat-governorates.jpg",
+        "category": "municipality",
+        "contractRoleAr": "عقود تأهيل الأرصفة وصيانة المعدات والآليات",
+        "contractRoleEn": "Pavement Rehabilitation & Fleet Maintenance"
+      }
+    ]
+  }
+}

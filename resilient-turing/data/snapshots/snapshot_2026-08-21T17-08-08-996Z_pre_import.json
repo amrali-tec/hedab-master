@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-08-21T17:08:03.081Z",
+  "lastUpdatedBy": "م. أيمن جميل الحاتم",
+  "data": {
+    "system_status": "ready",
+    "test_sync_milestone": {
+      "titleAr": "مشروع الجسور المعلقة والتوسعات الاستراتيجية 2030",
+      "titleEn": "Suspended Viaducts & Strategic 2030 Infrastructure",
+      "updatedAt": "2026-08-21T16:52:10.553Z",
+      "status": "published"
+    },
+    "live_test_milestone": {
+      "titleAr": "اختبار الحفظ المباشر",
+      "status": "verified"
+    },
+    "concurrent_stress_0": {
+      "workerId": 0,
+      "timestamp": 1787331140589
+    },
+    "concurrent_stress_1": {
+      "workerId": 1,
+      "timestamp": 1787331140589
+    },
+    "concurrent_stress_2": {
+      "workerId": 2,
+      "timestamp": 1787331140590
+    },
+    "concurrent_stress_4": {
+      "workerId": 4,
+      "timestamp": 1787331140592
+    },
+    "concurrent_stress_3": {
+      "workerId": 3,
+      "timestamp": 1787331140591
+    },
+    "gulf_hills_timeline_items": [
+      {
+        "id": "m-live-sync-test",
+        "year": "2030",
+        "titleAr": "توسعة البنية التحتية والمشاريع الكبرى 1787332083053",
+        "titleEn": "Mega Infrastructure Expansion 2030",
+        "descriptionAr": "تنفيذ أعمال الأنفاق والجسور العملاقة",
+        "descriptionEn": "Major viaducts and tunneling execution",
+        "colorCard": "14, 165, 233",
+        "colorRing": "#0284c7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+# ==============================================================================
+# HEDAB AL-KHALEEJ GENERAL CONTRACTING (شركة هضاب الخليج للمقاولات)
+# Official Website: https://hedabkh.com.sa
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /documents/
+Allow: /uploads/
+Allow: /assets/
+Disallow: /admin/
+Disallow: /ar/admin/
+Disallow: /en/admin/
+Disallow: /api/
+Disallow: /_next/
+
+# Host & Sitemaps
+Host: https://hedabkh.com.sa
+Sitemap: https://hedabkh.com.sa/sitemap.xml

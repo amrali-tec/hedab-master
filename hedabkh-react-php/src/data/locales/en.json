@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About Us",
+    "team": "Our Team",
+    "certificates": "Accreditations",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "toggle": "Toggle Theme"
+  },
+  "lang": {
+    "label": "العربية",
+    "code": "ar"
+  },
+  "footer": {
+    "allRightsReserved": "All rights reserved.",
+    "designedBy": "Engineered and designed by Arabian Gulf Hills Contracting Co.",
+    "contactTitle": "Get In Touch"
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-08-22T12:05:48.677Z",
+  "lastUpdatedBy": "م. أيمن جميل الحاتم",
+  "data": {
+    "system_status": "ready",
+    "test_sync_milestone": {
+      "titleAr": "مشروع الجسور المعلقة والتوسعات الاستراتيجية 2030",
+      "titleEn": "Suspended Viaducts & Strategic 2030 Infrastructure",
+      "updatedAt": "2026-08-21T16:52:10.553Z",
+      "status": "published"
+    },
+    "live_test_milestone": {
+      "titleAr": "اختبار الحفظ المباشر",
+      "status": "verified"
+    },
+    "concurrent_stress_0": {
+      "workerId": 0,
+      "timestamp": 1787348530235
+    },
+    "concurrent_stress_1": {
+      "workerId": 1,
+      "timestamp": 1787348530236
+    },
+    "concurrent_stress_2": {
+      "workerId": 2,
+      "timestamp": 1787348530238
+    },
+    "concurrent_stress_4": {
+      "workerId": 4,
+      "timestamp": 1787348530240
+    },
+    "concurrent_stress_3": {
+      "workerId": 3,
+      "timestamp": 1787348530239
+    },
+    "gulf_hills_timeline_items": [
+      {
+        "id": "m-live-sync-test",
+        "year": "2030",
+        "titleAr": "توسعة البنية التحتية والمشاريع الكبرى 1787348510249",
+        "titleEn": "Mega Infrastructure Expansion 2030",
+        "descriptionAr": "تنفيذ أعمال الأنفاق والجسور العملاقة",
+        "descriptionEn": "Major viaducts and tunneling execution",
+        "colorCard": "14, 165, 233",
+        "colorRing": "#0284c7"
+      }
+    ],
+    "cms_draft_page-home": {
+      "id": "ver-home-draft",
+      "pageId": "page-home",
+      "versionNumber": 2,
+      "state": "draft",
+      "titleAr": "مسودة العمل للرئيسية",
+      "titleEn": "Home Working Draft",
+      "blocks": [
+        {
+          "id": "block-home-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "المقاول الإنشائي والتشغيلي الرائد بالمملكة",
+            "tagEn": "PREMIER SAUDI INFRASTRUCTURE CONTRACTOR",
+            "titleAr": "نبني البنية التحتية... لنرتقي بجودة الحياة",
+            "titleEn": "Engineering Infrastructure, Elevating Quality of Life",
+            "subtitleAr": "أكثر من 15 عاماً من التميز في مقاولات الطرق، شبكات السيول، الحواجز الخرسانية والتشغيل البلدي وفق أعلى معايير رؤية 2030.",
+            "subtitleEn": "15+ years of excellence in road paving, stormwater networks, precast concrete barriers, and municipal maintenance.",
+            "primaryCtaTextAr": "استعراض المشاريع الكبرى",
+            "primaryCtaTextEn": "Explore Flagship Projects",
+            "primaryCtaLink": "/projects",
+            "secondaryCtaTextAr": "طلب عرض سعر مباشر",
+            "secondaryCtaTextEn": "Request RFQ",
+            "secondaryCtaLink": "/contact",
+            "bgImageUrl": "/images/hero-bg.webp",
+            "badgeNumber": "+15",
+            "badgeTextAr": "عاماً من الريادة والتميز",
+            "badgeTextEn": "Years of Engineering Excellence"
+          },
+          "createdAt": "2026-08-22T12:05:48.246Z",
+          "updatedAt": "2026-08-22T12:05:48.614Z"
+        },
+        {
+          "id": "block-home-services-1",
+          "type": "serviceCollection",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "tagAr": "قدراتنا الهندسية الشاملة",
+            "tagEn": "CORE ENGINEERING SERVICES",
+            "titleAr": "حلول متكاملة في مقاولات البنية التحتية والتشغيل",
+            "titleEn": "Integrated Solutions in Civil & Municipal Contracting",
+            "subtitleAr": "نقدم منظومة شاملة من أعمال السفلتة، شبكات السيول، الحواجز الخرسانية، التشغيل والصيانة.",
+            "subtitleEn": "End-to-end capabilities spanning paving, flood mitigation, precast barriers, and municipal O&M.",
+            "selectedServiceIds": [],
+            "maxItems": 6,
+            "layout": "cards"
+          },
+          "createdAt": "2026-08-22T12:05:48.246Z",
+          "updatedAt": "2026-08-22T12:05:48.614Z"
+        },
+        {
+          "id": "block-home-timeline-1",
+          "type": "timeline",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "tagAr": "مسار الإنجازات والنمو",
+            "tagEn": "MILESTONES & GROWTH",
+            "titleAr": "محطات من الريادة وبناء القدرات الوطنية",
+            "titleEn": "Milestones of Leadership & National Infrastructure",
+            "subtitleAr": "تدرج مسيرة هضاب الخليج منذ التأسيس وحتى تصدر المشاريع السيادية وعقود البلديات الكبرى.",
+            "subtitleEn": "The evolutionary journey of Gulf Hills from founding to major municipal contracts.",
+            "cylinderRadius": 600,
+            "autoRotate": true
+          },
+          "createdAt": "2026-08-22T12:05:48.246Z",
+          "updatedAt": "2026-08-22T12:05:48.614Z"
+        },
+        {
+          "id": "block-home-projects-1",
+          "type": "projectCollection",
+          "sortOrder": 3,
+          "isVisible": true,
+          "config": {
+            "tagAr": "معرض المشاريع الاستراتيجية",
+            "tagEn": "FLAGSHIP PROJECTS",
+            "titleAr": "مشاريع حيوية ترسم ملامح المستقبل",
+            "titleEn": "Vital Projects Shaping Infrastructure",
+            "subtitleAr": "استعراض لأبرز مشاريع الطرق، تصريف السيول، تشغيل المرافق والحواجز الخرسانية.",
+            "subtitleEn": "Showcase of road maintenance, stormwater networks, and facility O&M contracts.",
+            "selectedProjectIds": [],
+            "featuredOnly": true,
+            "maxItems": 6,
+            "layout": "grid"
+          },
+          "createdAt": "2026-08-22T12:05:48.246Z",
+          "updatedAt": "2026-08-22T12:05:48.614Z"
+        },
+        {
+          "id": "block-home-map-1",
+          "type": "saudiMap",
+          "sortOrder": 4,
+          "isVisible": true,
+          "config": {
+            "tagAr": "التغطية الجغرافية للمملكة",
+            "tagEn": "KINGDOM-WIDE COVERAGE",
+            "titleAr": "تواجدنا الميداني في كافة مناطق المملكة",
+            "titleEn": "Our Active Footprint Across Saudi Regions",
+            "subtitleAr": "خريطة حية ترصد انتشار فرق العمل والآليات في الرياض والقصيم والشرقية ومكة المكرمة والمدينة المنورة.",
+            "subtitleEn": "Live operational map tracking heavy fleet deployments across central, eastern, and western provinces.",
+            "selectedRegionId": "riyadh"
+          },
+          "createdAt": "2026-08-22T12:05:48.246Z",
+          "updatedAt": "2026-08-22T12:05:48.614Z"
+        },
+        {
+          "id": "block-home-partners-1",
+          "type": "partners",
+          "sortOrder": 5,
+          "isVisible": true,
+          "config": {
+            "tagAr": "شركاء النجاح والثقة",
+            "tagEn": "TRUSTED PARTNERS",
+            "titleAr": "نعتز بثقة كبرى الجهات الحكومية والسيادية",
+            "titleEn": "Proud Partners with Sovereign Ministries & Municipalities",
+            "subtitleAr": "سجل حافل من الشراكات الناجحة مع وزارة البلديات، أمانة الرياض، وزارة الحرس الوطني ووزارة النقل.",
+            "subtitleEn": "A proven track record with MoMRAH, Riyadh Municipality, National Guard, and Transport.",
+            "speedSec": 35,
+            "showProjectsCount": true
+          },
+          "createdAt": "2026-08-22T12:05:48.246Z",
+          "updatedAt": "2026-08-22T12:05:48.614Z"
+        },
+        {
+          "id": "block-home-stats-1",
+          "type": "statistics",
+          "sortOrder": 6,
+          "isVisible": true,
+          "config": {
+            "tagAr": "أرقام تتحدث عن الإنجاز",
+            "tagEn": "PROVEN NUMBERS",
+            "titleAr": "مؤشرات أداء تعكس ريادتنا الميدانية",
+            "titleEn": "Performance Metrics Reflecting Field Leadership",
+            "subtitleAr": "أرقام حقيقية توثق مئات الكيلومترات من الطرق وشبكات السيول وأسطول الآليات.",
+            "subtitleEn": "Documented field metrics covering road kilometers, drainage pipelines, and heavy fleet.",
+            "selectedStatIds": [],
+            "showIcons": true
+          },
+          "createdAt": "2026-08-22T12:05:48.246Z",
+          "updatedAt": "2026-08-22T12:05:48.614Z"
+        },
+        {
+          "id": "block-home-cta-1",
+          "type": "cta",
+          "sortOrder": 7,
+          "isVisible": true,
+          "config": {
+            "titleAr": "هل لديك مشروع بنية تحتية أو طلب توريد حواجز خرسانية؟",
+            "titleEn": "Have an Infrastructure Project or Barrier Supply Request?",
+            "descriptionAr": "فريقنا الهندسي المتخصص جاهز لتقديم أفضل الاستشارات الفنية وعروض الأسعار التنافسية.",
+            "descriptionEn": "Our specialized engineering team is ready to provide technical consultation and competitive RFQs.",
+            "buttonTextAr": "تواصل مع الإدارة الهندسية",
+            "buttonTextEn": "Contact Engineering Dept",
+            "buttonLink": "/contact",
+            "bgColor": "from-blue-600 to-[#002060]"
+          },
+          "createdAt": "2026-08-22T12:05:48.246Z",
+          "updatedAt": "2026-08-22T12:05:48.614Z"
+        },
+        {
+          "id": "block-home-whatsapp-1",
+          "type": "whatsapp",
+          "sortOrder": 8,
+          "isVisible": true,
+          "config": {
+            "phoneNumber": "966555123456",
+            "defaultMessageAr": "مرحباً، أود الاستفسار عن خدمات ومشاريع شركة هضاب الخليج.",
+            "defaultMessageEn": "Hello, I would like to inquire about Gulf Hills projects and services.",
+            "tooltipAr": "تحدث معنا عبر واتساب",
+            "tooltipEn": "Chat with us on WhatsApp",
+            "pulseGlow": true
+          },
+          "createdAt": "2026-08-22T12:05:48.246Z",
+          "updatedAt": "2026-08-22T12:05:48.614Z"
+        }
+      ],
+      "createdBy": "مدير النظام",
+      "createdAt": "2026-08-22T12:05:48.614Z",
+      "publishedAt": null,
+      "changeNote": "حفظ مسودة"
+    },
+    "cms_published_page-home": {
+      "id": "ver-page-home-v3-rollback-1787348398334",
+      "pageId": "page-home",
+      "versionNumber": 3,
+      "state": "published",
+      "titleAr": "استرجاع إلى الإصدار v1",
+      "titleEn": "Rollback to Release v1",
+      "blocks": [
+        {
+          "id": "block-home-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "المقاول الإنشائي والتشغيلي الرائد بالمملكة",
+            "tagEn": "PREMIER SAUDI INFRASTRUCTURE CONTRACTOR",
+            "titleAr": "نبني البنية التحتية... لنرتقي بجودة الحياة",
+            "titleEn": "Engineering Infrastructure, Elevating Quality of Life",
+            "subtitleAr": "أكثر من 15 عاماً من التميز في مقاولات الطرق، شبكات السيول، الحواجز الخرسانية والتشغيل البلدي وفق أعلى معايير رؤية 2030.",
+            "subtitleEn": "15+ years of excellence in road paving, stormwater networks, precast concrete barriers, and municipal maintenance.",
+            "primaryCtaTextAr": "استعراض المشاريع الكبرى",
+            "primaryCtaTextEn": "Explore Flagship Projects",
+            "primaryCtaLink": "/projects",
+            "secondaryCtaTextAr": "طلب عرض سعر مباشر",
+            "secondaryCtaTextEn": "Request RFQ",
+            "secondaryCtaLink": "/contact",
+            "bgImageUrl": "/images/hero-bg.webp",
+            "badgeNumber": "+15",
+            "badgeTextAr": "عاماً من الريادة والتميز",
+            "badgeTextEn": "Years of Engineering Excellence"
+          },
+          "createdAt": "2026-08-21T21:39:58.213Z",
+          "updatedAt": "2026-08-21T21:39:58.213Z"
+        },
+        {
+          "id": "block-home-services-1",
+          "type": "serviceCollection",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "tagAr": "قدراتنا الهندسية الشاملة",
+            "tagEn": "CORE ENGINEERING SERVICES",
+            "titleAr": "حلول متكاملة في مقاولات البنية التحتية والتشغيل",
+            "titleEn": "Integrated Solutions in Civil & Municipal Contracting",
+            "subtitleAr": "نقدم منظومة شاملة من أعمال السفلتة، شبكات السيول، الحواجز الخرسانية، التشغيل والصيانة.",
+            "subtitleEn": "End-to-end capabilities spanning paving, flood mitigation, precast barriers, and municipal O&M.",
+            "selectedServiceIds": [],
+            "maxItems": 6,
+            "layout": "cards"
+          },
+          "createdAt": "2026-08-21T21:39:58.213Z",
+          "updatedAt": "2026-08-21T21:39:58.213Z"
+        },
+        {
+          "id": "block-home-timeline-1",
+          "type": "timeline",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "tagAr": "مسار الإنجازات والنمو",
+            "tagEn": "MILESTONES & GROWTH",
+            "titleAr": "محطات من الريادة وبناء القدرات الوطنية",
+            "titleEn": "Milestones of Leadership & National Infrastructure",
+            "subtitleAr": "تدرج مسيرة هضاب الخليج منذ التأسيس وحتى تصدر المشاريع السيادية وعقود البلديات الكبرى.",
+            "subtitleEn": "The evolutionary journey of Gulf Hills from founding to major municipal contracts.",
+            "cylinderRadius": 600,
+            "autoRotate": true
+          },
+          "createdAt": "2026-08-21T21:39:58.213Z",
+          "updatedAt": "2026-08-21T21:39:58.213Z"
+        },
+        {
+          "id": "block-home-projects-1",
+          "type": "projectCollection",
+          "sortOrder": 3,
+          "isVisible": true,
+          "config": {
+            "tagAr": "معرض المشاريع الاستراتيجية",
+            "tagEn": "FLAGSHIP PROJECTS",
+            "titleAr": "مشاريع حيوية ترسم ملامح المستقبل",
+            "titleEn": "Vital Projects Shaping Infrastructure",
+            "subtitleAr": "استعراض لأبرز مشاريع الطرق، تصريف السيول، تشغيل المرافق والحواجز الخرسانية.",
+            "subtitleEn": "Showcase of road maintenance, stormwater networks, and facility O&M contracts.",
+            "selectedProjectIds": [],
+            "featuredOnly": true,
+            "maxItems": 6,
+            "layout": "grid"
+          },
+          "createdAt": "2026-08-21T21:39:58.213Z",
+          "updatedAt": "2026-08-21T21:39:58.213Z"
+        },
+        {
+          "id": "block-home-map-1",
+          "type": "saudiMap",
+          "sortOrder": 4,
+          "isVisible": true,
+          "config": {
+            "tagAr": "التغطية الجغرافية للمملكة",
+            "tagEn": "KINGDOM-WIDE COVERAGE",
+            "titleAr": "تواجدنا الميداني في كافة مناطق المملكة",
+            "titleEn": "Our Active Footprint Across Saudi Regions",
+            "subtitleAr": "خريطة حية ترصد انتشار فرق العمل والآليات في الرياض والقصيم والشرقية ومكة المكرمة والمدينة المنورة.",
+            "subtitleEn": "Live operational map tracking heavy fleet deployments across central, eastern, and western provinces.",
+            "selectedRegionId": "riyadh"
+          },
+          "createdAt": "2026-08-21T21:39:58.213Z",
+          "updatedAt": "2026-08-21T21:39:58.213Z"
+        },
+        {
+          "id": "block-home-partners-1",
+          "type": "partners",
+          "sortOrder": 5,
+          "isVisible": true,
+          "config": {
+            "tagAr": "شركاء النجاح والثقة",
+            "tagEn": "TRUSTED PARTNERS",
+            "titleAr": "نعتز بثقة كبرى الجهات الحكومية والسيادية",
+            "titleEn": "Proud Partners with Sovereign Ministries & Municipalities",
+            "subtitleAr": "سجل حافل من الشراكات الناجحة مع وزارة البلديات، أمانة الرياض، وزارة الحرس الوطني ووزارة النقل.",
+            "subtitleEn": "A proven track record with MoMRAH, Riyadh Municipality, National Guard, and Transport.",
+            "speedSec": 35,
+            "showProjectsCount": true
+          },
+          "createdAt": "2026-08-21T21:39:58.213Z",
+          "updatedAt": "2026-08-21T21:39:58.213Z"
+        },
+        {
+          "id": "block-home-stats-1",
+          "type": "statistics",
+          "sortOrder": 6,
+          "isVisible": true,
+          "config": {
+            "tagAr": "أرقام تتحدث عن الإنجاز",
+            "tagEn": "PROVEN NUMBERS",
+            "titleAr": "مؤشرات أداء تعكس ريادتنا الميدانية",
+            "titleEn": "Performance Metrics Reflecting Field Leadership",
+            "subtitleAr": "أرقام حقيقية توثق مئات الكيلومترات من الطرق وشبكات السيول وأسطول الآليات.",
+            "subtitleEn": "Documented field metrics covering road kilometers, drainage pipelines, and heavy fleet.",
+            "selectedStatIds": [],
+            "showIcons": true
+          },
+          "createdAt": "2026-08-21T21:39:58.213Z",
+          "updatedAt": "2026-08-21T21:39:58.213Z"
+        },
+        {
+          "id": "block-home-cta-1",
+          "type": "cta",
+          "sortOrder": 7,
+          "isVisible": true,
+          "config": {
+            "titleAr": "هل لديك مشروع بنية تحتية أو طلب توريد حواجز خرسانية؟",
+            "titleEn": "Have an Infrastructure Project or Barrier Supply Request?",
+            "descriptionAr": "فريقنا الهندسي المتخصص جاهز لتقديم أفضل الاستشارات الفنية وعروض الأسعار التنافسية.",
+            "descriptionEn": "Our specialized engineering team is ready to provide technical consultation and competitive RFQs.",
+            "buttonTextAr": "تواصل مع الإدارة الهندسية",
+            "buttonTextEn": "Contact Engineering Dept",
+            "buttonLink": "/contact",
+            "bgColor": "from-blue-600 to-[#002060]"
+          },
+          "createdAt": "2026-08-21T21:39:58.213Z",
+          "updatedAt": "2026-08-21T21:39:58.213Z"
+        },
+        {
+          "id": "block-home-whatsapp-1",
+          "type": "whatsapp",
+          "sortOrder": 8,
+          "isVisible": true,
+          "config": {
+            "phoneNumber": "966555123456",
+            "defaultMessageAr": "مرحباً، أود الاستفسار عن خدمات ومشاريع شركة هضاب الخليج.",
+            "defaultMessageEn": "Hello, I would like to inquire about Gulf Hills projects and services.",
+            "tooltipAr": "تحدث معنا عبر واتساب",
+            "tooltipEn": "Chat with us on WhatsApp",
+            "pulseGlow": true
+          },
+          "createdAt": "2026-08-21T21:39:58.213Z",
+          "updatedAt": "2026-08-21T21:39:58.213Z"
+        }
+      ],
+      "createdBy": "مدير النظام",
+      "createdAt": "2026-08-21T21:39:58.334Z",
+      "publishedAt": "2026-08-21T21:39:58.334Z",
+      "changeNote": "استرجاع آمن من النسخة السابقة (الإصدار المعتمد الأولي (Production V1.0))"
+    },
+    "cms_published_page-about": {
+      "id": "ver-page-about-v2-1787400348656",
+      "pageId": "page-about",
+      "versionNumber": 2,
+      "state": "published",
+      "titleAr": "الإصدار المعتمد v2 (عن الشركة (الرؤية والرسالة))",
+      "titleEn": "Published Release v2 (About Us (Vision & Mission))",
+      "blocks": [
+        {
+          "id": "block-about-hero-1",
+          "type": "hero",
+          "sortOrder": 0,
+          "isVisible": true,
+          "config": {
+            "tagAr": "من نحن • هضاب الخليج للمقاولات",
+            "tagEn": "ABOUT US • GULF HILLS CONTRACTING",
+            "titleAr": "ريادة هندسية راسخة وشراكة وطنية واعدة",
+            "titleEn": "Engineering Leadership & National Partnership",
+            "subtitleAr": "تأسست شركة هضاب الخليج لتكون إحدى الركائز الوطنية المتخصصة في تنفيذ وصيانة مشاريع البنية التحتية، رصف الطرق، وشبكات تصريف السيول.",
+            "subtitleEn": "Gulf Hills was founded to be a premier national powerhouse executing infrastructure, road paving, and stormwater networks.",
+            "primaryCtaTextAr": "استعراض الهيكل الإداري",
+            "primaryCtaTextEn": "Our Leadership",
+            "primaryCtaLink": "/team",
+            "secondaryCtaTextAr": "شهادات الآيزو والتأهيل",
+            "secondaryCtaTextEn": "Certifications",
+            "secondaryCtaLink": "/certificates",
+            "bgImageUrl": "/images/company-overview.jpg"
+          },
+          "createdAt": "2026-08-22T12:05:48.553Z",
+          "updatedAt": "2026-08-22T12:05:48.553Z"
+        },
+        {
+          "id": "block-about-vision-1",
+          "type": "richText",
+          "sortOrder": 1,
+          "isVisible": true,
+          "config": {
+            "badgeAr": "الرؤية والرسالة والقيم",
+            "badgeEn": "Vision & Mission",
+            "titleAr": "رؤيتنا ورسالتنا الهندسية",
+            "titleEn": "Our Corporate Vision & Core Mission",
+            "contentAr": "نطمح إلى أن نكون الخيار الأول والذراع التنفيذي الموثوق لكافة الأمانات والوزارات في مشاريع البنية التحتية من خلال تطبيق الكود السعودي للبناء وأعلى معايير الجودة والسلامة المهنية.",
+            "contentEn": "To be the first-choice contractor for all ministries and municipalities through adherence to Saudi Building Code and strict safety standards.",
+            "align": "right"
+          },
+          "createdAt": "2026-08-22T12:05:48.553Z",
+          "updatedAt": "2026-08-22T12:05:48.553Z"
+        },
+        {
+          "id": "block-about-stats-1",
+          "type": "statistics",
+          "sortOrder": 2,
+          "isVisible": true,
+          "config": {
+            "tagAr": "أرقام تتحدث عن الإنجاز",
+            "tagEn": "PROVEN NUMBERS",
+            "titleAr": "مؤشرات أداء تعكس ريادتنا الميدانية",
+            "titleEn": "Performance Metrics Reflecting Field Leadership",
+            "subtitleAr": "أرقام حقيقية توثق مئات الكيلومترات من الطرق وشبكات السيول وأسطول الآليات.",
+            "subtitleEn": "Documented field metrics covering road kilometers, drainage pipelines, and heavy fleet.",
+            "selectedStatIds": [],
+            "showIcons": true
+          },
+          "createdAt": "2026-08-22T12:05:48.553Z",
+          "updatedAt": "2026-08-22T12:05:48.553Z"
+        },
+        {
+          "id": "block-about-cta-1",
+          "type": "cta",
+          "sortOrder": 3,
+          "isVisible": true,
+          "config": {
+            "titleAr": "هل لديك مشروع بنية تحتية أو طلب توريد حواجز خرسانية؟",
+            "titleEn": "Have an Infrastructure Project or Barrier Supply Request?",
+            "descriptionAr": "فريقنا الهندسي المتخصص جاهز لتقديم أفضل الاستشارات الفنية وعروض الأسعار التنافسية.",
+            "descriptionEn": "Our specialized engineering team is ready to provide technical consultation and competitive RFQs.",
+            "buttonTextAr": "تواصل مع الإدارة الهندسية",
+            "buttonTextEn": "Contact Engineering Dept",
+            "buttonLink": "/contact",
+            "bgColor": "from-blue-600 to-[#002060]"
+          },
+          "createdAt": "2026-08-22T12:05:48.553Z",
+          "updatedAt": "2026-08-22T12:05:48.553Z"
+        }
+      ],
+      "createdBy": "مدير النظام",
+      "createdAt": "2026-08-22T12:05:48.656Z",
+      "publishedAt": "2026-08-22T12:05:48.656Z",
+      "changeNote": "اعتماد ونشر صفحة عن الشركة v2"
+    }
+  }
+}

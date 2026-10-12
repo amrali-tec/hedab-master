@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+
+Sitemap: https://hedabkh.com.sa/sitemap.xml
+Host: https://hedabkh.com.sa
